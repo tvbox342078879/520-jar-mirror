@@ -1,0 +1,4655 @@
+{
+ "note": "csp活线路去重：api+jar+ext三元组；jar为镜像raw或原jar；ext为空表示无需配置源",
+ "count": 664,
+ "rescued_by_remap": 0,
+ "rows": [
+  {
+   "api": "csp_NewDouBanGuard",
+   "name": "[王二小] 🐮【免费分享】🐮",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanConfigGuard",
+   "name": "[王二小] 🐮配置┃中心🐮",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MyPanGuard",
+   "name": "[王二小] 🐮我的┃网盘🐮",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewHuaJuanGuard",
+   "name": "[王二小] 💓花卷┃4K💓‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewWoggGuard",
+   "name": "[王二小] 💓‍玩偶┃4K💓‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewGuanYingGuard",
+   "name": "[王二小] 💓‍观影┃4K💓‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiQwMkvGuard",
+   "name": "[王二小] 💓‍七味┃4K💓‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewPianKuGuard",
+   "name": "[王二小] 💓盘库┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewHuBanGuard",
+   "name": "[王二小] 💓虎斑┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewMuOuGuard",
+   "name": "[王二小] 💓木偶┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewDuoDuoGuard",
+   "name": "[王二小] 💓多多┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewKuaiYingGuard",
+   "name": "[王二小] 💓快影┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewLaBiGuard",
+   "name": "[王二小] 💓蜡笔┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewShanDianGuard",
+   "name": "[王二小] 💓闪电┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewJuTouGuard",
+   "name": "[王二小] 💓剧透┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewLibvioGuard",
+   "name": "[王二小] 💓立播┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewZhiNan4KGuard",
+   "name": "[王二小] 💓‍原盘┃4K💓‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewWoNiu4KGuard",
+   "name": "[王二小] 💓‍蜗牛┃4K💓‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiPan1MeGuard",
+   "name": "[王二小] 💓盘迷┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiNewYiDong4KGuard",
+   "name": "[王二小] 💓逸动┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiHanXiaoQuanGuard",
+   "name": "[王二小] 💥韩剧┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiGuaZiGuard",
+   "name": "[王二小] 💥瓜子┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiDuBoKuGuard",
+   "name": "[王二小] 💥独播┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiYueYueGuard",
+   "name": "[王二小] 💥闪电┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiWenCaiGuard",
+   "name": "[王二小] 💥文才┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexFengYe4KGuard",
+   "name": "[王二小] 💥小枫┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiJianPianGuard",
+   "name": "[王二小] 💥贱片┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiJuXiaFanGuard",
+   "name": "[王二小] 💥下饭┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥师兄┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Dsx\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥粉猪┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Fz\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥咸鱼┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Xy\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥追剧┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Zjdr\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥柚子┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Xyz\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥柠檬┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Xnm\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥太奇┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Mtq\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥零七┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Llq\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAppV7Guard",
+   "name": "[王二小] 💥柿子┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"config\": \"AppV7Xsz\", \"proxyImg\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiYiYsGuard",
+   "name": "[王二小] 💥伊影┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiReBoGuard",
+   "name": "[王二小] 💥热播┃秒播💥",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiBoBoGuard",
+   "name": "[王二小] 🎇伯伯┃秒播🎇",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WexAiIkanBotGuard",
+   "name": "[王二小] 🎇爱看┃采集🎇",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LiveAiHuYaGuard",
+   "name": "[王二小] 🐯‍虎牙┃直播🐯‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LiveAiDouYuGuard",
+   "name": "[王二小] 🐳斗鱼┃直播🐳",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LiveAiBiLiGuard",
+   "name": "[王二小] 🅱️哔哩┃直播🅱️",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ManJuAiHongGuoGuard",
+   "name": "[王二小] 🍉漫短┃小红🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ManJuAiHuoLongGuard",
+   "name": "[王二小] 🍉漫剧┃小龙🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ManJuAiQiMaoGuard",
+   "name": "[王二小] 🍉漫剧┃小猫🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ManJuAiXiFanGuard",
+   "name": "[王二小] 🍉漫短┃小喜🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ManJuAiHeMaGuard",
+   "name": "[王二小] 🍉漫短┃小马🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DuanJuAiHaoKanGuard",
+   "name": "[王二小] 🍉短剧┃好看🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DuanJuAiQiMiaoGuard",
+   "name": "[王二小] 🍉短剧┃小猫🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DuanJuAiXingYaGuard",
+   "name": "[王二小] 🍉短剧┃星星🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DuanJuAiWeiGuanGuard",
+   "name": "[王二小] 🍉短剧┃小薇🍉",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AnimeAiGongHeGuoGuard",
+   "name": "[王二小] 🤡共和┃动漫🤡",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AnimeXiFanGuard",
+   "name": "[王二小] 🤡稀饭┃动漫🤡",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AnimeCiYuanChengGuard",
+   "name": "[王二小] 🤡次元┃动漫🤡",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AnimeAiMoDuGuard",
+   "name": "[王二小] 🤡魔都┃动漫🤡",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BookHongGuoGuard",
+   "name": "[王二小] 🎃‍小红┃听书🎃",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BookHeMaGuard",
+   "name": "[王二小] 🎃‍小马┃听书🎃",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BookAiYueTingGuard",
+   "name": "[王二小] 🎃‍悦庭┃听书🎃",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BookAi23TingShuGuard",
+   "name": "[王二小] 🎃‍爱上┃听书🎃",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ChildrenAiBaoBaoGuard",
+   "name": "[王二小] 👼宝宝┃儿歌👼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ChildrenAiBeiWaGuard",
+   "name": "[王二小] 👼贝贝┃儿歌👼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ChildrenAiTuTuGuard",
+   "name": "[王二小] 👼兔兔┃儿歌👼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAiTangDouGuard",
+   "name": "[王二小] 💃跳舞┃教学💃",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAiLiYuanGuard",
+   "name": "[王二小] 🎎戏曲┃秒播🎎",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAiQingTingGuard",
+   "name": "[王二小] 🎼蜻蜓┃电台🎼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAiIKtvGuard",
+   "name": "[王二小] 🎼KTV┃音乐🎼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAiKuWoaGuard",
+   "name": "[王二小] 🎼小酷┃音乐🎼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAi163Guard",
+   "name": "[王二小] 🎼易听┃音乐🎼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAiKuWoGuard",
+   "name": "[王二小] 🎼酷听┃音乐🎼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicAiLunHuiGuard",
+   "name": "[王二小] 🎼轮回┃舞曲🎼",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SportAiFeiQiuGuard",
+   "name": "[王二小] 🌐飞球┃体育🌐",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SportAiGuaZiGuard",
+   "name": "[王二小] 🌐瓜子┃体育🌐",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SportAiKanQiuTongGuard",
+   "name": "[王二小] 🌐球通┃体育🌐",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SportAiKanqiuGuard",
+   "name": "[王二小] 🌐八八┃体育🌐",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SportAiKaFeiGuard",
+   "name": "[王二小] 🌐咖啡┃体育🌐",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SportAiWweGuard",
+   "name": "[王二小] 🌐WWE┃体育🌐",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FakeAi115ShareGuard",
+   "name": "[王二小] 💓115┃分享💓‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_EmbyGuard",
+   "name": "[王二小] 💓Emby┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_EmbyDiyGuard",
+   "name": "[王二小] 💓Emby001┃4K💓",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"embynumber\": 0}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AListGuard",
+   "name": "[王二小] 👁️Alist┃DIY👁️",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DiyVodGuard",
+   "name": "[王二小] 👁Vod┃DIY👁️",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliYsGuard",
+   "name": "[王二小] 🅱哔哩┃影视🅱",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[王二小] 🅱‍哔哩┃合集🅱‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"json\": \"https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[王二小] 🅱‍哔哩┃戏曲🅱‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"json\": \"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[王二小] 🅱‍哔哩┃歌曲🅱‍",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"json\": \"https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[王二小] 📚少儿┃教育📚",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"json\": \"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[王二小] 📚小学┃课堂📚",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"json\": \"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[王二小] 📚初中┃课堂📚",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"json\": \"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/19B1839_773_chuzhong_20250828171521929newMediaImage.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[王二小] 📚高中┃课堂📚",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "{\"json\": \"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SoAiHaiYinGuard",
+   "name": "[王二小] 🎠盘搜┃综合🎠",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SoAiPanSooGuard",
+   "name": "[王二小] 🎠九七┃综合🎠",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SoAiAiPanSoGuard",
+   "name": "[王二小] 🎠爱盘┃综合🎠",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SoKaKaGuard",
+   "name": "[王二小] 🎠卡卡┃综合🎠",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SoAiQuanPanGuard",
+   "name": "[王二小] 🎠全盘┃综合🎠",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PushGuard",
+   "name": "[王二小] 推送",
+   "jar": "http://oss4liview.moji.com/thd_file/2026/11/21/b739e258520d1aefa13a1444ee39ef0d.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Douban",
+   "name": "[二月红接口] 💥豆瓣排行💥",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://gitee.com/jiandan1232/BabyOS/raw/master/test/douban.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JianSou",
+   "name": "[二月红接口] 💖┃简搜┃4K💖",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"name\": \" 简搜\", \"site\": \"http://118.89.172.248:8000\", \"type\": 0}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanCms",
+   "name": "[二月红接口] 💖┃至臻┃4K💖",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanCms",
+   "name": "[二月红接口] 💖┃木偶┃4K💖",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"site\":[\"https://www.muoua.top\",\"https://666.666291.xyz\",\"https://333.333291.xyz\",\"https://www.muou.asia\"],\"name\":\"网盘CMS\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanCms",
+   "name": "[二月红接口] 💖┃多多┃4K💖",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"site\":[\"https://tv.yydsys.top\",\"https://tv.yydsys.cc\",\"https://tv.214521.xyz\"],\"name\":\"网盘CMS\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanCms",
+   "name": "[二月红接口] 💖┃快映┃4K💖",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"site\":[\"http://38.76.197.172:12521\"],\"name\":\"网盘CMS\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanCms",
+   "name": "[二月红接口] 💖┃虎斑┃4K💖",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"site\":[\"http://38.76.197.172:16969\"],\"name\":\"网盘CMS\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Star2",
+   "name": "[二月红接口] 💖┃剧透┃4K💖",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"site\":[\"https://1.star2.cn\"],\"name\":\"剧透社\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Gz360",
+   "name": "[二月红接口] 🍂┃瓜子┃秒播",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppDrama",
+   "name": "[二月红接口] 🍂┃苹果┃1080P",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"appName\": \"小苹果\", \"commonKey\": \"ed5fdsgucxumegqa\", \"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"dataIv\": \"OC1A06E197EF10CF3F6058CA7A803B5E\", \"dataKey\": \"S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==\", \"decrypt\": \"1\", \"host\": \"\", \"pkg\": \"com.juechufsh.android.xpg1\", \"publicKey\": \"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB\", \"site\": \"https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt\", \"version\": \"1.0.0.3\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppRJ",
+   "name": "[二月红接口] 🍂┃热播┃高清",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"block\": [\"线路二(点击切换)\", \"CO4K\"], \"url\": \"http://v.rbotv.cn\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jianpian",
+   "name": "[二月红接口] 🍂┃荐片┃1080P",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"site\": \"https://api.ztcgi.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YunDuo",
+   "name": "[二月红接口] 🍂┃大鹅┃1080P",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"block\": [\"PO蓝光\", \"CO4K\", \"ZJ4k\", \"NB蓝光\"], \"host\": \"https://323433ssdfd.top\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DongPian",
+   "name": "[二月红接口] 🍂┃懂片┃秒播",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DyXia",
+   "name": "[二月红接口] 🍂┃影侠┃影视",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "{\"blockedFroms\":[\"4K\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JinPai",
+   "name": "[二月红接口] 🍂┃金牌┃秒播",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Dubk",
+   "name": "[二月红接口] 🍂┃杜北┃秒播",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DaShiXiong",
+   "name": "[二月红接口] 🍂┃师兄┃影视",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Gulu",
+   "name": "[二月红接口] 🍂┃咕噜┃影视",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KuKuMusic",
+   "name": "[二月红接口] 🎵┃库库┃音乐",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppTd",
+   "name": "[二月红接口] 💃┃糖豆┃舞蹈",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[二月红接口] 🎈┃国粹┃戏曲",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://z.qiqiv.cn/666/json/Blixq.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[二月红接口] 🏮┃相声┃小品",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://z.qiqiv.cn/666/json/Blixs.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[二月红接口] 🎸┃演唱会┃MV",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://z.qiqiv.cn/666/json/演唱会.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[二月红接口] 🎧┃明星┃MV",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://z.qiqiv.cn/666/json/MTV.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[二月红接口] 🅱┃️哔哩┃大全",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://z.qiqiv.cn/666/json/Bili.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[二月红接口] 🅱️┃哔哩┃短剧",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://z.qiqiv.cn/666/json/Bili短剧.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[二月红接口] 🎬┃影视┃解说",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "https://z.qiqiv.cn/666/json/影视解说.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Push",
+   "name": "[二月红接口] 资源加载更新....",
+   "jar": "http://118.89.172.248:8025/jar/tan2.php",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MyDriveGuard",
+   "name": "[饭太硬] 🗂我的云盘┃配置",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WoGGGuard",
+   "name": "[饭太硬] 👽玩偶哥哥┃4K弹幕",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YGPGuard",
+   "name": "[饭太硬] 🚀荐影┃预告片",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AllliveGuard",
+   "name": "[饭太硬] 🎮一直播┃直播",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MusicGuard",
+   "name": "[饭太硬] 🎙️易听┃音乐",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SsspGuard",
+   "name": "[饭太硬] ♻️爱刷┃短视",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SeedhubGuard",
+   "name": "[饭太硬] 💡聚剧┃四盘",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MaiDuiDuiGuard",
+   "name": "[饭太硬] 🦊粤迷┃港剧",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_T4Guard",
+   "name": "[饭太硬] 🌞光影┃不卡",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NewCzGuard",
+   "name": "[饭太硬] 📔厂长┃不卡",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LibvioGuard",
+   "name": "[饭太硬] 🌟立播┃不卡",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\", \"siteUrl\": \"https://www.libvio.pw/\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppgzGuard",
+   "name": "[饭太硬] 👀瓜子┃不卡",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BttwooGuard",
+   "name": "[饭太硬] 🍄比特┃不卡",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HmysGuard",
+   "name": "[饭太硬] 🐬海绵┃不卡",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NmyswvGuard",
+   "name": "[饭太硬] 🍓糯米┃秒播",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JpysGuard",
+   "name": "[饭太硬] 💮文采┃秒播",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_T4Guard",
+   "name": "[饭太硬] 🧀奶酪┃秒播",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JumiTvGuard",
+   "name": "[饭太硬] 🍊橘猫┃多线",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppTTGuard",
+   "name": "[饭太硬] 📺热播┃多线",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "uqGL1bNENExT7/hGxpSE5qU=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FyGuard",
+   "name": "[饭太硬] ☁️风云┃多线",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"name\": \"Fy\", \"type\": \"video\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JPJGuard",
+   "name": "[饭太硬] 🥝荐片┃多线",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AueteGuard",
+   "name": "[饭太硬] 🏝奥特┃多线",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SixVGuard",
+   "name": "[饭太硬] 🧲新6V┃磁力",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "https://www.xb6v.com/",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiDjGuard",
+   "name": "[饭太硬] ❤️AI剧┃弹幕",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"danMu\": false, \"name\": \"短剧\", \"type\": \"video\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Dm84Guard",
+   "name": "[饭太硬] 🚌巴士┃动漫",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KanqiuGuard",
+   "name": "[饭太硬] ⚽八八┃看球",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DoubaoGuard",
+   "name": "[饭太硬] 🏀多多┃回放",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LiveGzGuard",
+   "name": "[饭太硬] 🏐吃瓜┃看球",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[饭太硬] 🎶明星┃MV",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YueTingGuard",
+   "name": "[饭太硬] 🎧有声┃小说",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FirstAidGuard",
+   "name": "[饭太硬] 🚑急救┃教学",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_S_zpsGuard",
+   "name": "[饭太硬] 🎈盘搜┃四盘",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"siteUrl\": \"http://107.173.211.148/\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_S_zpsGuard",
+   "name": "[饭太硬] 🦋易搜┃四盘",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"siteUrl\": \"https://so.252035.xyz/\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YpanSoGuard",
+   "name": "[饭太硬] 🐌盘她┃夸父",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BpanSoGuard",
+   "name": "[饭太硬] 🐞盘他┃嘟嘟",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KkSsGuard",
+   "name": "[饭太硬] 🌶️抠抠┃搜搜",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_UuSsGuard",
+   "name": "[饭太硬] 🌈优汐┃搜搜",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[饭太硬] 🅱哔哔合集┃弹幕",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[饭太硬] 🅱哔哔演唱会┃弹幕",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[饭太硬] 📚少儿┃教育",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[饭太硬] 📚小学┃课堂",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[饭太硬] 📚初中┃课堂",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliGuard",
+   "name": "[饭太硬] 📚高中┃课堂",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PushGuard",
+   "name": "[饭太硬] 🛴手机┃推送",
+   "jar": "https://qist.wyfc.qzz.io/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Douban",
+   "name": "[宝盒接口] 新年快乐🥮免费分享",
+   "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppRJ",
+   "name": "[宝盒接口] 热播┃零二",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "http://v.rbotv.cn",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Wwys",
+   "name": "[宝盒接口] 农民┃零三",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "https://vip.wwgz.cn:5200",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PianKu8",
+   "name": "[宝盒接口] 山楂┃零五",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[宝盒接口] 首发┃零六",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FengYe",
+   "name": "[宝盒接口] 枫叶┃零七",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "https://www.vip1949.com/",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App99",
+   "name": "[宝盒接口] 双星┃零八",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"appkey\": \"24d625a8a29b4700a1a294c6f3b29e2c\", \"buildNumber\": \"2001\", \"buildSignature\": \"A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC\", \"host\": \"http://103.217.190.91:19987/app/bn\", \"name\": \"半日闲\", \"package\": \"com.yf.lelian\", \"versionName\": \"3.5.8\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HeMa",
+   "name": "[宝盒接口] 盒马┃零九",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppXY",
+   "name": "[宝盒接口] 星丫┃零十",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Kanqiu",
+   "name": "[宝盒接口] 体育┃十一",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_GuaziTY",
+   "name": "[宝盒接口] 体育┃十二",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SaoHuo",
+   "name": "[宝盒接口] 火火┃十三",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Czsapp",
+   "name": "[宝盒接口] 厂长┃十四",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "https://www.4kcz.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV6",
+   "name": "[宝盒接口] 麦田┃十五",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "http://172.247.227.203:25321/mtys.php",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Feiyu",
+   "name": "[宝盒接口] 飞娱┃十六",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App99",
+   "name": "[宝盒接口] 剧圈┃十七",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"appkey\": \"d1f0c269eab74d93821fffc9befdbbba\", \"buildNumber\": \"2002\", \"buildSignature\": \"054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594\", \"host\": \"http://124.221.3.182:19987/app/bn\", \"name\": \"剧圈圈\", \"package\": \"com.qingtangxiaozhuan.xyz\", \"versionName\": \"1.2.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppDrama",
+   "name": "[宝盒接口] 天堂┃十八",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"appName\": \"电影天堂\", \"commonKey\": \"ed5fdsgucxumegqa\", \"dataIv\": \"OC1A06E197EF10CF3F6058CA7A803B5E\", \"dataKey\": \"D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==\", \"decrypt\": \"0\", \"host\": \"\", \"pkg\": \"com.dytiantang.one\", \"publicKey\": \"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB\", \"site\": \"https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt\", \"version\": \"3.0.0.7\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jianpian",
+   "name": "[宝盒接口] 荐片┃二十",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "https://api.ztcgi.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppTe",
+   "name": "[宝盒接口] 天鹅┃二一",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jpys",
+   "name": "[宝盒接口] 金牌┃二二",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "https://y2s52n7.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YunZhenXiang",
+   "name": "[宝盒接口] 秒播┃二三",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"index_url\": \"https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json\", \"key_api\": \"https://www.tangsan.fun/zx.php\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Tounimabi",
+   "name": "[宝盒接口] 八戒┃二四",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppYd",
+   "name": "[宝盒接口] 大鹅┃二五",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"deviceBrand\": \"vivo\", \"deviceModel\": \"V2309A\", \"finger\": \"SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA\", \"host\": \"https://bubutv.top\", \"pkg\": \"com.sunshine.tv\", \"sk\": \"SK-thanks\", \"updateId\": \"38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7\", \"ver\": \"6\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MacWeb",
+   "name": "[宝盒接口] 麦田┃网页",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"host\": \"https://www.mtyy7.com\", \"detail\": \"/voddetail/{id}.html\", \"search\": \"/vodsearch/{wd}----------{pg}---.html\", \"cat\": \"/vodtype/{tid}.html\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MacWeb",
+   "name": "[宝盒接口] 66┃大片",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"host\": \"https://www.66dpw.vip\", \"detail\": \"/voddetail/{id}.html\", \"search\": \"/vodsearch/{wd}----------{pg}---.html\", \"cat\": \"/vodtype/{tid}.html\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MacWeb",
+   "name": "[宝盒接口] 追影┃猫猫",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"host\": \"https://zhuiyingmiao2.com\", \"detail\": \"/voddetail/{id}.html\", \"search\": \"/vodsearch/{wd}----------{pg}---.html\", \"cat\": \"/vodtype/{tid}.html\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Maccms",
+   "name": "[宝盒接口] 三五┃电影",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "{\"host\": \"https://wu5mv.com\", \"detail\": \"/voddetail/{id}.html\", \"search\": \"/vodsearch/{wd}----------{pg}---.html\", \"cat\": \"/vodtype/{tid}.html\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TingBook",
+   "name": "[宝盒接口] 六月┃有声",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "https://app.365ting.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YXZB",
+   "name": "[宝盒接口] 游戏┃直播",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FirstAid",
+   "name": "[宝盒接口] 急救┃知识",
+   "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/BH1116.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[宝盒接口] 哔哩┃哔哩",
+   "jar": "https://img2.gelonghui.com/library/caa22-82cdc278-148a-46bf-9aaf-c6aee2b5d124.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Djuu",
+   "name": "[宝盒接口] 嗨歌┃悠悠",
+   "jar": "https://raw.giteeusercontent.com/taoyong1/jk/raw/master/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Kugou",
+   "name": "[宝盒接口] 某狗┃音乐",
+   "jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
+   "ext": "{\"classes\": [{\"type_id\": \"kugou\", \"type_name\": \"酷狗\"}]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[宝盒接口] 宝宝📚国学",
+   "jar": "https://jihulab.com/bhjk1/vip/-/raw/main/BHQX.jar",
+   "ext": "http://mzrjk.top/学习/lib/小灯塔国学.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[宝盒接口] 学前📚教育",
+   "jar": "https://raw.giteeusercontent.com/taoyong1/jk/raw/master/xuexi1.jar",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/1903b-eb0f1675-2437-4e72-bcf0-427b1626d79fnull\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[宝盒接口] 小学📚课堂",
+   "jar": "https://raw.giteeusercontent.com/taoyong1/jk/raw/master/xuexi1.jar",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/a1140-144855fe-3eaa-44f3-b689-6812c233de54null\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[宝盒接口] 初中📚课堂",
+   "jar": "https://raw.giteeusercontent.com/taoyong1/jk/raw/master/xuexi1.jar",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/ba156-73e16cad-8257-4f33-b8c0-e051e72e546dnull\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[宝盒接口] 高中📚课堂",
+   "jar": "https://raw.giteeusercontent.com/taoyong1/jk/raw/master/xuexi1.jar",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/e44b3-4a82ab48-e014-49b2-bb66-ee5207e8f195null\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LibvioGuard",
+   "name": "[荐片] 🌟立播┃秒播",
+   "jar": "https://tv.203511.xyz/jar/fan.txt",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\", \"from\": \"4k|auto\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Douban",
+   "name": "[软件] 获取接口┃微信小程序搜【软件小哥哥】",
+   "jar": "https://gitee.com/starlinkapi/pan/raw/master/jar/popup.jar?v=25",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Hxq",
+   "name": "[软件] 韩圈｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://fishapi.wya6.com/fish/fishhxq.php",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppYsV2",
+   "name": "[软件] 奴娜丨APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://www.nntv.in/api.php/v1.vod",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppFox",
+   "name": "[软件] 花柳｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"host\": \"http://nico.oiio.fun\", \"ver\": 2}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppFox",
+   "name": "[软件] 麒麟｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"host\": \"https://qh.70qh.top\", \"ver\": 2}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppFox",
+   "name": "[软件] 搜搜｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://www.zjcvod.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppFox",
+   "name": "[软件] 火花｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"host\": \"http://huohua.itcxo.cn\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[软件] 顾我｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"kj37zs29q22jk96t\", \"dataKey\": \"kj37zs29q22jk96t\", \"init\": \"initV122\", \"site\": \"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json\", \"ua\": \"okhttp/3.10.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[软件] 爱盈｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"sjvlwnhk6h9znl61\", \"dataKey\": \"sjvlwnhk6h9znl61\", \"site\": \"https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt\", \"ua\": \"okhttp/3.10.0\", \"version\": \"305\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[软件] 金牌｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"eecbio48dsq131ee\", \"dataKey\": \"eecbio48dsq131ee\", \"init\": \"initV122\", \"search\": \"searchList4\", \"site\": \"https://dtqj.ggtvb.cc/dtjp.txt\", \"ua\": \"okhttp/3.10.0\", \"version\": \"305\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[软件] 小猪｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"j8sr6d93yp49db3p\", \"dataKey\": \"j8sr6d93yp49db3p\", \"init\": \"initV122\", \"site\": \"https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt\", \"ua\": \"okhttp/3.10.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[软件] 鲸鱼｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"AAdgrdghjfgsABC1\", \"dataKey\": \"AAdgrdghjfgsABC1\", \"init\": \"initV122\", \"site\": \"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json\", \"ua\": \"okhttp/3.10.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[软件] 优兔｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"UrWKPnmQWJA8AQzd\", \"dataKey\": \"UrWKPnmQWJA8AQzd\", \"site\": \"https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 小鸟｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"guodan2004031600\", \"dataKey\": \"guodan2004031600\", \"token\": \"fd035ffa03d62775add295bfbb7d99c131e0bb49bb9451309b0ffc4df1631146\", \"url\": \"http://154.222.26.58:7788\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 方源｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"0ef6fc92a64b4e74\", \"dataKey\": \"0ef6fc92a64b4e74\", \"site\": \"https://fyys9.fytd.top/1.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 七月｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"xnybssspqtwotuwj\", \"dataKey\": \"xnybssspqtwotuwj\", \"site\": \"https://99.jl8.top/1.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 芬奇｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"bH5mI8iK0tK7aQ5x\", \"dataKey\": \"bH5mI8iK0tK7aQ5x\", \"site\": \"https://wsapi.dafenqi.mom/yuming.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 缘梦｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"1234567890987654\", \"dataKey\": \"1234567890987654\", \"url\": \"http://165.99.42.137:5432\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 小猫｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"xmyxmyxywlkjxywl\", \"dataKey\": \"xmyxmyxywlkjxywl\", \"site\": \"http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 小白｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"uXVVRRuaPnjEfsX5\", \"dataKey\": \"uXVVRRuaPnjEfsX5\", \"url\": \"https://uutu.efjhl.cn\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 气球｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"8888888888888888\", \"dataKey\": \"8888888888888888\", \"url\": \"https://vv.229d.cn\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 白鸽｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"599D0FE5178642FD\", \"dataKey\": \"599D0FE5178642FD\", \"url\": \"https://cy.baige.asia\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 魔方｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"1234567887654321\", \"dataKey\": \"1234567887654321\", \"url\": \"http://www.613mf4k12.top\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 瑞奇｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"yangruiqiYsapp00\", \"dataKey\": \"yangruiqiYsapp00\", \"url\": \"http://rqxk.gdata.fun\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 茉莉｜APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"88689667dce61725\", \"dataKey\": \"88689667dce61725\", \"site\": \"https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 驿站丨APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"dyyztvapiappyyds\", \"dataKey\": \"dyyztvapiappyyds\", \"site\": \"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliYS",
+   "name": "[软件] 哔哩｜视频",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/BLSP.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Czsapp",
+   "name": "[软件] 厂长｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://www.czzymovie.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jpys",
+   "name": "[软件] 金牌｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Tvyb",
+   "name": "[软件] 云播｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "http://www.tvyb03.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[软件] 韩剧｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/HJKK.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[软件] 小镇｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/XZYS.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[软件] 面包｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MBYS.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[软件] 永乐｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XYQHiker",
+   "name": "[软件] 剧圈｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/JQYS.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XYQHiker",
+   "name": "[软件] 来看｜影视",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/LKYS.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[软件] 哆啦｜新番社",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/DLXFS.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSy",
+   "name": "[软件] 漫国丨动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"listKey\": \"aassddwwxxllsx1x\", \"parsesKey\": \"aassddwwxxllsx1x\", \"site\": \"https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt\", \"siteKey\": \"rectangleadsadxa\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 云屋｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"ygcnb9bdcmb8aeiw\", \"dataKey\": \"ygcnb9bdcmb8aeiw\", \"url\": \"https://www.yunwuee.icu\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 卡卡｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"123456789abcdefg\", \"dataKey\": \"123456789abcdefg\", \"url\": \"http://154.201.90.53:8002\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 丫丫｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"qkxnwkfjwpcnwycl\", \"dataKey\": \"qkxnwkfjwpcnwycl\", \"url\": \"http://tv.yy-fun.cc\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 冬日丨动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"qE2nD0rL1lH4uP9r\", \"dataKey\": \"qE2nD0rL1lH4uP9r\", \"url\": \"http://www.drdm.fun\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 方舟丨动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"e72cdfd629e8895d\", \"dataKey\": \"e72cdfd629e8895d\", \"url\": \"https://www.cyfz.vip\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 元咲丨动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"2c4h36abd96se10u\", \"dataKey\": \"2c4h36abd96se10u\", \"url\": \"http://cic.aicg.fun\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 番薯丨动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"N4yj7l7xKxHF4*gz\", \"dataKey\": \"N4yj7l7xKxHF4*gz\", \"url\": \"https://new.app.bytegooty.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 曼波｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"66dc309cbeeca454\", \"dataKey\": \"66dc309cbeeca454\", \"url\": \"https://app.omofun1.top\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 咕咕｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"nKfZ8KX6JTNWRzTD\", \"dataKey\": \"nKfZ8KX6JTNWRzTD\", \"url\": \"https://www.gugu3.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[软件] 米饭｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"dataIv\": \"GETMIFUNGEIMIFUN\", \"dataKey\": \"GETMIFUNGEIMIFUN\", \"url\": \"https://get.mymifun.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[软件] 樱花｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/YHDM.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XYQHiker",
+   "name": "[软件] 巴士｜动漫",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/bsdm.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JianPian",
+   "name": "[软件] 荐片｜磁力",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Xlys",
+   "name": "[软件] 修罗｜磁力",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://xl01.com.de",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QnMp4",
+   "name": "[软件] 七味｜磁力",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "{\"url\": \"https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[软件] 雪花｜磁力",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/magnet/json/XH.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Xunlei8",
+   "name": "[软件] 迅雷吧｜磁力",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XYQHiker",
+   "name": "[软件] 电影港｜磁力",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/new.jar",
+   "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/magnet/json/DYG.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PianDan",
+   "name": "[摸鱼儿] 🌕️┆片单┆精选",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"home\": {\"douban\": \"https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json\", \"tmdb\": \"https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json\"}}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishConfig",
+   "name": "[摸鱼儿] 🍼┆设置┆中心",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Local",
+   "name": "[摸鱼儿] 📁┆文件┆浏览",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/VbeD/share.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ALLLive",
+   "name": "[摸鱼儿] 🌟┆星河┆共影",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[摸鱼儿] 🎨┆笔触┆琉璃",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"cookie\": \"\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishPs",
+   "name": "[摸鱼儿] 🐟┆鱼鱼┆盘搜",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Wogg",
+   "name": "[摸鱼儿] 👽️┆玩偶┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"filter\": \"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json\", \"site\": [\"https://wogg.xxooo.cf\", \"https://woggpan.888484.xyz\", \"https://www.wogg.live\", \"http://woggpan.xxooo.cf\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishCloud",
+   "name": "[摸鱼儿] 🪵┆木偶┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://www.muoua.top\", \"https://333.333291.xyz\", \"https://666.666291.xyz\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🤪┆摆烂┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Acf4n+FgSJlps29HFqyt+ECG19M+iLto9fxzwikME3YOnRFfaIWR3C9CZF+/o2jh4T6D4bOxYn8j775k1TLOsSHsG7tlKBqeENs8VhcKgZS5u7Gb8/LXYDutl7a21jsXLw==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppZy",
+   "name": "[摸鱼儿] 🌇┆晚晴┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "ARO+hB5vdFdHClVkrLOIgsdq6Ox6dBaesfwPqkaGkkI/kFSRmoG2vqoBgQJ4rQUfq9S/OqwEWkP8qRb4VM8DrYnl2UGeGnTvJjwdn+dbV8Nh",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppZy",
+   "name": "[摸鱼儿] 🪷┆秋水┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AXYmhdoG4mVUI1O/8DD7P+twDiSLZh1j9iNOR/xHURJp2Aw4rTsWEymW/RcJqLNohr1iR09cYEj6cCGDSNc95aBhNQfelqiC0gTqRSXniGO3",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🍵┆煮雪┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AUeoWDxT/Sza6llGoZlPCelc2ZgSZNx8QBoJAONichQm4mIf8nslnxOIU1wrq2vvzWouK156R9sXK/CRGs6G6fc=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🌼┆棠梨┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Ae8DpdkJGH5s9XIrvlLd8DvpiYdkSSaoIDmmvofda4Gpr9yX8k0a4w1wNmnu4CZ4Nnh03XkYIwooJ+psbf6P8ZY=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🌔┆望舒┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AV3cDzESDsTIWJ1e0GZQUmOQKfNDMpFhWqSa4cvJKZlVZDKPOBzRbNq+YsDIeVJfxJIlcvy9/9MMJLQR9Yn4P+ABIUU4LXEL+WXhRFcPEDBpGlxkMDqSvKpFJvmPoKC/IA==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🌥️┆云归┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AYw+57aVirMpHulq+pwyxEX1UGkmWBETcX32Yp6ZkkvTAnu06xitsJuZdymTwZ70YgSiX+Ga4XisFPKK2Pv4ERJ/y0iGIy9FkpAAVFLF8ltrlb/FEg6CdBcfjWgMUXsibWacZGVzOWczRslQaFUHS2M=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Luck",
+   "name": "[摸鱼儿] 🍀┆青禾┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AU/L2JHZ0SsU94LbxPA3emscXG7f5FFdKYn8MSdt/5Uktri/nmW4Z3nNYavRogzuAlOkPfPVG27z4OAdO+fyFhc=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KaiFan",
+   "name": "[摸鱼儿] 🍚┆开饭┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AfLGR2SW/7tjQA3K8Qgg5u7AG1NNWsCVAVxfMv/V44kP5aqzon5weT9IvX2w2KtBeMpAxc+Y0yRLN0eXf6oiuLw=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XieHui",
+   "name": "[摸鱼儿] 🫖┆歇会┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AWevGJ+A/nEjquOh7v58lbo8oaOgHdJkEu7/lzGApb2ngqWSO16XNPqrmqkozIxiLHvjDaaxs61fWZUIYBZBGgQ=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ShangTou",
+   "name": "[摸鱼儿] 🫠┆上头┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Ab723PUSGcnjpXT6567J5El7ZP+7lqBKJnQzkeqdAaVU29VedG35Y36vvAZWXOyL7tUL38RB0IWmvwZj4wWtuwyEOmAg2Nbpi1z46QBiBTmY",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FaDai",
+   "name": "[摸鱼儿] 😶┆发呆┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AbjGNiFc0jaPCvOXj2edU7/DIRsvVxb1/2tyMFgaoT8L4eZNchAll5NXn7xBXvEwQvvJ55Odg+IugUeNvfYtPT0=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HuangYou",
+   "name": "[摸鱼儿] 🚶┆晃悠┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AVVlrRajtr+i42Q1MBwsMRSoNuckBLnPEocZVkZik+88465w0JZsKWJodTFxYL+RSsAVU8X8lJ4M8E2Xfw0GLYA=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SuiYuan",
+   "name": "[摸鱼儿] 🍂┆随缘┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AVjYSEtEaHF+eS3NOrCubcE3f755psW6EFCg2THWgHt0uWkH1CXlE/UJ2zqohcEULrn/AlZOVuzN4V4Wt0EY3bY=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TangPing",
+   "name": "[摸鱼儿] 🛋️┆躺平┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AUVdS2Q3l8yS7JhOkMXYE1ntTJ/61k8MzQmaQMqSZBbUKDBy/udxVLxvXhNDvifvbkVTEawL3m2p9hhwbTibxnA=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LaiChuang",
+   "name": "[摸鱼儿] 🛏️┆赖床┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AVlJ4J+D/3DMzdKAQnig/9ckDSQU7H+PyPyOE/q+m7eGkaZ9YjDkVXgq17TjYCHuvJa0UinsvgwPiAVd51fKuA0=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BanDeng",
+   "name": "[摸鱼儿] 🪑┆板凳┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "ASH3HkV5cxNhNR9+uQe0sWYxUWHzEywHT3rcYOx+wsK4Jx+sBd0qMO9kFic1Rc1osAMsAsTlMgabd1Ky2kmzQ/Y=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DengFeng",
+   "name": "[摸鱼儿] 🍃┆等风┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o//eKOpDWbngYFUGIJGTa56hr3Hk0=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KanJu",
+   "name": "[摸鱼儿] 🎬┆流映┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"playname\": \"ly\", \"site\": \"https://kanju.ai\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🧣┆余温┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AQ97WpArbhKNw60bLglQNeYUtD0UDI1f65KexQmYfUaCO+V3+a8GbSmYodUtb12Q0LQHfv6KdocBICzIhrySNikxI0hWUixd5n/optwTcVcU",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🦉┆夜猫┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AR/RtwIvqcmx6ZGW8sbi7eFkPpUl48Y1f1lgZfeNDxJrNKwGVF/fADYHz0psPEF7KvDaccyt60bwK9lzVNUIhPUxyKFOo7u9iPyZxUTbxyAZ",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] 🧩┆拼图┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Ad2ohQzN3yKRQEHDYDkK1JK8CL3Se9zIBI5Q4VBRKeR6pIWjoaXOktd6l4RWPQi46M/xcnQCEN8R1PIqXGBDZPds5tolkQ4pUoWAaOKxXmPk",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] 🍿┆嗑剧┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Ab6RU4ow2BTC3y169gXHkoGyOzagKI89ksf5hxcm0/J5a7/pusSapfK8Oy6MtmlqAq8DsECmgbQ377MzwhHsU61D51ptVLqXXNu87y1TOl17",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] ✨┆凝光┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AbHckdJkP3IQGfQAetQhutxB3VjOrW67VMoOo8mAdc9grkAgbVv7bUgWbHKHHabksz8nJklfQrFKo56OYXkhQ936PGDo/33ZU4cnkGGALgUlbfxoJoT/TJ/KZwRlYHiajg==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] 📜┆素笺┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Aaf7w5/rzYE9yZfGXQS8eAKVq3W9pLaxvlvi6ZGZLpR8O3YSm7sXFS22QD04sh5rKbTiwymnUVmJuU564xlueIWO8sp8Q1lhlLJThJy5Yert",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App88",
+   "name": "[摸鱼儿] 🏞️┆长泽┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AbUqYzi9KxmcqEBrph2PStNUDPxq/XlzxDHJ/Ho29gXr8NgMOEJGFKBsrdYb5xNb+w+Xaj3203DI9YWo5wBv6zGULMNZneW1yESyfC1/S1BM",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] ⛰️┆云岫┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Af9dBxsQCjGtIKQ47cJEAnzHtmsGI04C7DCRpNBZk7hshaMWsb76puB4aGapQk4JgYpBV2BKnAQ6GRcUI+/vzYduXc8ItUUvkHR/+LR3Y+NT",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_zhiqiu",
+   "name": "[摸鱼儿] ☘️┆听风┆知秋",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "ATuDzsbtXNA1mpnRWIpcUB8B2+hY3LMP/3Z1xXurADboE8cAKUOjUN6TXimsApauJg/X7yLotzgNXhCsjAn5wuQ=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishHxq",
+   "name": "[摸鱼儿] 💃┆韩圈┆影视",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AfEuiKVYhFJoZfX14qKZ6B/GuVuuG1J+2u0TrTgQMlT+T6fw+zkIdP0NTr6BT3Oa5aQs8EIbxPwjpG7UH/U75WM=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Kan360",
+   "name": "[摸鱼儿] 🫐┆三六┆影视",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"filter\": \"https://tc-new.z.wiki/autoupload/k2fxc/20260918/8aF9/360.json\", \"fishjx\": [\"https://jx.xmflv.com/?url=\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] 🎋┆竹隐┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "ASOaI+0HH0pDfWQ9VwPhMaOaO+WarJ6umTa/qwrJ+cbO4qRPAyjfTVh51M3iYZq/nEN+givTp7FLvjhWgQh8WCdjm82k8bbHm80C9j41tlvo",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] 🏛️┆玉阶┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AR1skS0Mq97cRrUjisQHhwxFfgXFonkw2eX4zfToon+DcScGRXGViBnNIsG5DYOtYkAp0CTia3vGvMluKl75/eMH49CGi2ZWYJa1wyldHjNH",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NiuLai",
+   "name": "[摸鱼儿] 🪔┆香篆┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AYVQFckfgSMV740pmmoXzEeC6ljk5SNI/vhWnsIgCUWttSOCyil7DK8MLbeYpwWSgUvM0jcGIDuwi43iiO0FSFX1ofrxXH3IU944OtJbNlpMo9hvLoJTJ2RQVjWu3HU58w==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppUn",
+   "name": "[摸鱼儿] 🌷┆兰芷┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AZd2zeWnJd10mMjpA2gpKlWDq7ggxf6XDxDuTaoinynvJ3eEi1bZPxC2qgkkAiACxISnMdRC37ODaT/tTEd9foyUox+SNWIsGzujicg5VFm7",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppUn",
+   "name": "[摸鱼儿] 🌺┆疏影┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AcWh+ygRkvJAOf11TNsY/RqlWx9GJlpo3j4tzpUl+u3fVki/utnqUPm2SGUaMOiuwO9ab8dc4NOr/Kone+3t4Pvvqo19sUMAcLVWyXq8gKIr",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppUn",
+   "name": "[摸鱼儿] ❄️┆枕霜┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Ae6vu7b7i5h70Oy94HyVp82ZDRF6HrMNdCYNTQ442xkG4kY88mkG1x34awtkrrUdk56x2qehUzy3YCLubZhewqD5a5lQeSsfcnYh8z8+qVVL",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppUn",
+   "name": "[摸鱼儿] 🌊┆观澜┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AVV1qWzQBjKvN7CKup9rpdodlSeTxhlrSJPwshkidi4LdlbDt81YkaxBlOnImlhpaCXFZ3rlaVHkoA57wMFZIEUb0eGUhm8upw9Vw/Qq5sdr",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppUn",
+   "name": "[摸鱼儿] 🌿┆孟葭┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AUGjHXVq+vxRJ+qgE4Hsi3sV94g5u8cFfUgjY4diiOxY3cUhBhbqUlPOKbfo6yzjh2BrmyNZGnV3r5j/VfAvnDP1bmLlrwPQ1H2o6cF9VjrH",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppUn",
+   "name": "[摸鱼儿] 🌳┆南枝┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AUj9LzI2v0nALIaWIMvrw0mqpqAfYqjLEaEdBg2Kpjpynjba5tcMRsocodhKWXuxaxWXNQhmHVm/5ch0t87+Ck3kUcf8gS3HStDFKx/zWH77",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppUn",
+   "name": "[摸鱼儿] 💧┆沐辞┆APP",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AYdXH70UMM8plqsXPmZuN9zEJQV/2vpn2nM5OAeVwvV966SO86n0qc/65IvyNOY7I8FscuN2i4tnXSoa2eVVhCbvIzsK+OAWQcMwpKHy1zZg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Libvio",
+   "name": "[摸鱼儿] 📺┆立播┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://libviofabu.com\", \"https://libvio.app\", \"https://libfabu.com\", \"https://libviogroup.github.io\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KZN",
+   "name": "[摸鱼儿] 😋┆指南┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SeedHub",
+   "name": "[摸鱼儿] 🌱┆Seed┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://sidhub.cc\", \"https://seeduck.cc\", \"https://hubdog.cc\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare123",
+   "name": "[摸鱼儿] 😎┆123┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"cookie\": \"\", \"site\": [\"https://123panfx.com\", \"https://pan1.me\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShareGuangYa",
+   "name": "[摸鱼儿] 😉┆光鸭┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"cookie\": \"\", \"site\": [\"https://www.guangya.net\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WoNiu",
+   "name": "[摸鱼儿] 🐌┆蜗牛┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": \"https://wn4k.com/\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Qiwei",
+   "name": "[摸鱼儿] 🌈┆七味┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://www.qwnull.com\", \"https://www.qwmkv.com\", \"https://www.qwfilm.com\", \"https://www.qnmp4.com\", \"https://www.qnnull.com\", \"https://www.qnhot.com\", \"https://www.qncool.com\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Gying",
+   "name": "[摸鱼儿] 👀┆观影┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"cookie\": \"\", \"site\": [\"https://www.教父.com\", \"https://www.星际穿越.com\", \"https://www.楚门的世界.com\", \"https://www.泰坦尼克号.com\", \"https://www.盗梦空间.com\", \"https://www.肖申克的救赎.com\", \"https://www.阿甘正传.com\", \"https://www.黑客帝国.com\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishCloud",
+   "name": "[摸鱼儿] 🍀┆多多┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://tv.yydsys.top\", \"https://tv.yydsys.cc\", \"https://tv.214521.xyz\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishCloud",
+   "name": "[摸鱼儿] 🌸┆花卷┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://www.hjzhencai.top\", \"https://www.huanjuanwp.shop\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishCloud",
+   "name": "[摸鱼儿] 🐅┆虎斑┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"http://xhban.xyz\", \"http://38.76.197.172:16969\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishCloud",
+   "name": "[摸鱼儿] 🤭┆傻样┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"http://xsayang.fun\", \"http://38.76.197.172:12521\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishCloud",
+   "name": "[摸鱼儿] 💫┆八零┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://woog.nxog.eu.org\", \"https://ogkk.nxog.eu.org\", \"https://woog.430520.xyz\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DianYingYunJi",
+   "name": "[摸鱼儿] ☁️┆云集┆4K",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_VideoX",
+   "name": "[摸鱼儿] 📺┆小北┆云视",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_CZ",
+   "name": "[摸鱼儿] 🏭┆厂长┆影视",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"cookie\": \"\", \"password\": \"\", \"site\": [\"https://www.4kcz.com\", \"https://www.cz4k.com\", \"https://cz01.tv\", \"https://cz01.vip\", \"https://www.czzy.site\", \"https://czzy.top\"], \"username\": \"\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WenCai",
+   "name": "[摸鱼儿] ✏️┆文才┆影视",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Guazi",
+   "name": "[摸鱼儿] 🍉┆瓜子┆影视",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TvDy",
+   "name": "[摸鱼儿] 👼┆天堂┆影视",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HonHon",
+   "name": "[摸鱼儿] 🍅┆红红┆短剧",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"host\": \"https://honhon.wya6.com\", \"quality\": \"1080p\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DJHub",
+   "name": "[摸鱼儿] 🎭┆短剧┆聚合",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGhg",
+   "name": "[摸鱼儿] 🪁┆纸鸢┆动漫",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AYr9F7AdUNpxxaMgCJt9gAPT8QvrTqyZsZ/xpbyT3J0nHUzUdZ2B+yBSi22lsd4bvtxMgZD1L6+vSvAGsQknqmmjJrYKpVx/HEqmS1KsH554",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DaDun",
+   "name": "[摸鱼儿] 😴┆打盹┆动漫",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AfCX4sFyDgfHnSLJWpjt1MhGM5IXEedNZfnttre6SML2iKsHtTs9bImgNSCyhOVdiFfFQEtkTtLKBE1jHKB54K5If+HC5ogqbIKmQp/pC3aY",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XingHui",
+   "name": "[摸鱼儿] 🌠┆星绘┆动漫",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "Add8krwC68v61DP+FKD6Jfku9NAYotb5APLK7YesWQ1matF4zi2Prh/3AY6D3ZeBGuxJg4SEuXY9n/vMa+B4fC0=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FanShu",
+   "name": "[摸鱼儿] 🍠┆番薯┆动漫",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AfcrWiL6kOmzXnbqzxhVVO34r1aA/e0g4grwfsFA8V5EPAVy9WtRO4yVFf3aC5LmzKENIEFO9aA2BMklc+wOUy4=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XgAnime",
+   "name": "[摸鱼儿] 🍉┆西瓜┆动漫",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[摸鱼儿] 🕺┆曼波┆动漫",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[摸鱼儿] 🐤┆咕咕┆动漫",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Xb6v",
+   "name": "[摸鱼儿] 🔋┆6V┆磁力",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JSo",
+   "name": "[摸鱼儿] 🐾┆珈珈┆搜索",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://j-so.com\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Tiu6",
+   "name": "[摸鱼儿] 🍭┆Tiu6┆搜索",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"site\": [\"https://www.tiu6.cn\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Buguyy",
+   "name": "[摸鱼儿] 🐦┆布谷┆音乐",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ChuXin",
+   "name": "[摸鱼儿] 💕┆初心┆音乐",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiTingMusic",
+   "name": "[摸鱼儿] 🎧┆爱听┆音乐",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Music24bit",
+   "name": "[摸鱼儿] 🎼┆无损┆音乐",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"categories\": [\"周杰伦\", \"林俊杰\", \"陈奕迅\", \"邓紫棋\", \"薛之谦\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[摸鱼儿] 🧒┆少儿┆教育",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[摸鱼儿] 📚┆小学┆课堂",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[摸鱼儿] 📐┆初中┆课堂",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[摸鱼儿] 🎓┆高中┆课堂",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[摸鱼儿] 🎉┆笔璃┆合集",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[摸鱼儿] 🎉┆笔璃┆歌曲",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"json\": \"https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Kanqiu",
+   "name": "[摸鱼儿] ⚽┆看球┆体育",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "http://www.88kanqiu.one",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Sir88",
+   "name": "[摸鱼儿] 🏟️┆超全┆体育",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QiutongTY",
+   "name": "[摸鱼儿] 🏀┆球通┆体育",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TingBookJinXia",
+   "name": "[摸鱼儿] 🎙️┆堇夏┆有声",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "https://m.ting15.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TingYou",
+   "name": "[摸鱼儿] 🎧┆听友┆有声",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Market",
+   "name": "[摸鱼儿] 🛒┆网盘┆市场",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "{\"categories\": [{\"name\": \"潇洒资源一\", \"url\": \"https://pan.quark.cn/s/969cc97687d3\"}, {\"name\": \"潇洒资源二\", \"url\": \"https://drive.uc.cn/s/ba531661b3eb4\"}, {\"name\": \"奇奇更新一\", \"url\": \"https://pan.quark.cn/s/ab00f85da8ea\"}, {\"name\": \"奇奇更新二\", \"url\": \"https://drive.uc.cn/s/ef22fcbfdd934\"}]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FishDrive",
+   "name": "[摸鱼儿] 🐠┆摸鱼┆媒体库",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260715/bf45/fishdrive.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Wallpaper",
+   "name": "[摸鱼儿] 🖼️┆摸鱼┆壁纸库",
+   "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Czsapp",
+   "name": "[2] 厂长｜弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "https://cz01.vip",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppMH",
+   "name": "[2] 大马猴丨弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[2] 蓝鹰｜弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"dataIv\": \"ca94b06ca359d80e\", \"dataKey\": \"ca94b06ca359d80e\", \"init\": \"initV120\", \"site\": \"https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt\", \"ua\": \"okhttp/3.10.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppYsV2",
+   "name": "[2] 电堂丨弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "http://39.105.18.5:5565/api.php/app/",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[2] 永乐｜弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "https://gitee.com/fuleishu/fulei/raw/master/json/永乐影视.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Hxq",
+   "name": "[2] 韩圈｜弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "http://www.小不点.com/api/2026/fishhxq.php",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppDrama",
+   "name": "[2] 华谊｜免扫",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"appName\": \"华谊\", \"dataIv\": \"OC1A06E197EF10CF3F6058CA7A803B5E\", \"dataKey\": \"NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=\", \"decrypt\": \"1\", \"host\": \"\", \"pkg\": \"com.muyue.tool\", \"publicKey\": \"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB\", \"site\": \"https://vip.123pan.cn/1851089669/oss/az5.txt\", \"version\": \"1.0.0.4\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Wogg",
+   "name": "[2] 玩耦｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"http://www.wogg.live\", \"https://www.wogg.net\", \"https://wogg.xxooo.cf\", \"https://woggpan.xxooo.cf\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[2] 快映｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"http://38.76.197.172:12521\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[2] 蜡笔｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"http://www.xiaocgege.shop\", \"http://xiaocge.fun\", \"http://feimo.fun\", \"http://xiaocgege.shop\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[2] 至臻｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"https://mihdr.top\", \"https://www.miqk.cc\", \"https://www.mihdr.top\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[2] 欧哥｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"https://woog.nxog.eu.org\", \"https://woog.nxog.fun\", \"https://woog.nxog.eu.org\", \"https://woog.430520.xyz\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[2] 二小｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"https://www.2xiaopan.top\", \"https://www.erxiaozhan.top\", \"https://www.2xiaozhan.top\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[2] 虎斑｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"http://38.76.197.172:16969\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[2] 短木丨4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"site\": [\"https://duanmu.laozhangone.top\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_4KZhinan",
+   "name": "[2] 指南｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_RenRen",
+   "name": "[2] 人人｜4K弹幕",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[2] 次元丨动漫追番",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"dataIv\": \"e72cdfd629e8895d\", \"dataKey\": \"e72cdfd629e8895d\", \"url\": \"https://www.cyfz.top\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KafeiTY",
+   "name": "[2] 咖啡丨体育直播",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 哔哩｜资源合集",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/B站.png\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 哔哩｜音乐合集",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/哔哩哔哩演唱会.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 哔哩｜听书合集",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/哔哩哔哩听书.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 哔哩｜相声合集",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/哔哩哔哩相声.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 哔哩｜小品合集",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/哔哩哔哩小品.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 哔哩｜戏曲合集",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/哔哩哔哩戏曲.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 少儿｜教育资源",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/少儿教育.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 小学｜课堂资源",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/小学课堂.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 初中｜课堂资源",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/初中课堂.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[2] 高中｜课堂资源",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "{\"cookie\": \"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt\", \"json\": \"https://gitee.com/fuleishu/fulei/raw/master/json/高中课堂.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Djlh",
+   "name": "[2] 轮回｜DJ音乐",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TingShijie",
+   "name": "[2] 世界｜听书资源",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XiongdiPan",
+   "name": "[2] 兄弟｜网盘搜索",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MiSou",
+   "name": "[2] 米搜｜网盘搜索",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_GuiGui",
+   "name": "[2] 鬼鬼｜网盘搜索",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JuheSo",
+   "name": "[2] 音海丨网盘搜索",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TianYiSo",
+   "name": "[2] 天翼｜网盘搜索",
+   "jar": "https://gitee.com/fuleishu/fulei/raw/master/json/t3.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppRJ",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 秒播┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 哔哩┃哔哩",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/50e4430df0b5644f/bilibil.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 葫芦┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 标清┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 幸运┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 爱影┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App3Q",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 大鹅┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "https://duoduozhuiju.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App99",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 咕噜┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "{\"LoginPath\": \"/app/log\", \"appkey\": \"d1f0c269eab74d93821fffc9befdbbba\", \"buildNumber\": \"2001\", \"buildSignature\": \"B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311\", \"host\": \"http://103.45.132.22:19987/app/bn\", \"name\": \"咕噜咕噜\", \"package\": \"com.bd.tool.gulu\", \"versionName\": \"1.9.5\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App99",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] 欣欣┃1080P",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "{\"LoginPath\": \"/app/log\", \"appkey\": \"a0a18659a9977a47e53442cd084b536c\", \"buildNumber\": \"2001\", \"buildSignature\": \"03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47\", \"host\": \"https://api.12321app.com/api\", \"name\": \"听心视频\", \"package\": \"com.iksp.adsys.jjsp\", \"version\": \"0b4328287a5d953e\", \"versionName\": \"2.8.1\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App99",
+   "name": "[【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】] ️顾我┃APP",
+   "jar": "https://gitee.com/starlinkapi/jar/raw/master/jar/starlink.jar",
+   "ext": "{\"LoginPath\": \"/app/log\", \"appkey\": \"040f9b1bc5e942569b5c3e63943306ab\", \"buildNumber\": \"2001\", \"buildSignature\": \"5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A\", \"host\": \"http://117.50.200.113:19987/app/bn\", \"name\": \"顾我追剧\", \"package\": \"com.guwozhuijux.app\", \"versionName\": \"4.3.1\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[vv] 飞宇影院",
+   "jar": "https://qist.wyfc.qzz.io/jar/spider.jar",
+   "ext": "{\"分类\": \"电影$1#电视剧$2#综艺$3#动漫$4\", \"分类url\": \"http://ntfeiyu.com/nt/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DouDouGuard",
+   "name": "[1] 服务号【欧若服饰】",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_S_zpsGuard",
+   "name": "[1] 🎈聚盘搜┃三盘",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "{\"siteUrl\": \"http://38.55.131.86:82/\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LibvioGuard",
+   "name": "[1] 🌟立播┃秒播",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YCyzGuard",
+   "name": "[1] ☀原创┃秒播",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[1] 🐻剧圈┃多线",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[1] 🍙下饭┃多线",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[1] 🦊极狐┃多线",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLe3Je/kGpsKc2zX0ocJ1EK7HEju+hsY+lK2shiqnHZcN1Sz2Im+G8mF+shR8vK6KaQCCnyQajK1uW0QGH/31V4eBoD+JzwElClCJ1GEctm4nhZXAylAQ==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[1] 🐟猫猫┃多线",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "rfOX1voDIQhH8epBwpmIsuSspW+fnt3j0Gkxas3qVQ5bZRBVvSwnsuM5MOJ0isFT7Xq5Kctln34euXsyXL42Edzeou/SGHg=",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[1] 🍩包子┃多线",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXQ3SsRv/HiK+0XXGnjhlkfQQNopX5TgKxFIobBott+2QTSxa1Bv3jlR7vRcQK",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[1] 🍊橘子┃多线",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "rfOX1voDIQhH8epBwpmIsuSqvyXCz8r+lS8mcJ/xVR1aMxpf9CY77fshWb9Qi+9wjlHTW/B2wksy6y04VuIpAozGrejSUw==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[1] 👀鲸鱼┃多线",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Anime1Guard",
+   "name": "[1] 🐾日本┃动漫",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Sir88Guard",
+   "name": "[1] ⚽88┃看球",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ZbzGuard",
+   "name": "[1] ⚽超全┃看球",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Tingshu275Guard",
+   "name": "[1] 🎧有声┃小说",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YiSoGuard",
+   "name": "[1] 😹易搜┃三盘",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\", \"yiSoCookie\": \"satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MIPanSoGuard",
+   "name": "[1] 🦋米搜┃优夸",
+   "jar": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",
+   "ext": "{\"Cloud-drive\": \"tvfan/Cloud-drive.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Living",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐼┃游戏┃直播",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://bt.muxia.fun",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Duopan",
+   "name": "[https://www.ls660.com/TV/feimao.json] ⚡┃闪电┃优汐",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"site_urls\": [\"https://shandian.blog/\", \"https://sd.sduc.site\"], \"url_key\": \"FeiMaoUC\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Duopan",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🖍︎┃蜡笔┃影视",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"site_urls\": [\"http://xiaocgege.shop\", \"https://feimao666.fun\", \"http://feimao888.fun\", \"https://feimo.fun\", \"http://www.labi88.sbs\", \"http://fmao.site\", \"http://fmao.shop\", \"http://xiaocge.fun\"], \"threadinfo\": {\"chunksize\": 512, \"threads\": 16}, \"url_key\": \"Duopan2\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Duopan",
+   "name": "[https://www.ls660.com/TV/feimao.json] 💌┃️至臻┃影视",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"site_urls\": [\"http://xiaomi666.fun\", \"https://zhizhen1.top\", \"https://mihdr.top\", \"https://www.mihdr.top\", \"http://www.miqk.cc\", \"https://www.zhizhenpan.fun\"], \"threadinfo\": {\"chunksize\": 512, \"threads\": 16}, \"url_key\": \"Netfixtv2\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐼┃肥猫┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "http://103.236.61.192:8006|123456789abcdefg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🍚┃干饭┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppQi",
+   "name": "[https://www.ls660.com/TV/feimao.json] 📀┃光盘┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 😌┃行动┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt|zjmznbl2026zcxgb",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] ✌️┃再来┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://www.jumengwu.com|1f0a873caf2550a5",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🥣┃一碗┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://dy.8ttv.cn|1111111111111111",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐱┃猫抓┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://www.mfsp4k.top|1234567887654321",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐹┃耗子┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🫛┃蔬菜┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐼┃黑猫┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐇┃兔子┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] ♾️┃永永┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] ☁️┃云云┃APP",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Wwys",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🌾️┃农民┃影视",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://www.wwgz.cn",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jianpian",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🎬┃荐片┃影视",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://ev2089.zxbwv.com",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Czsapp",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🏭┃厂长┃影视",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://www.czzymovie.com/",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🅱┃️哔哩┃合集",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"./bili.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Dm84",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🤣┃动漫┃巴士",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "https://dm84.net",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐷┃丫丫┃动漫",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Kugou",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🐾┃酷狗┃音乐",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"classes\": [{\"type_id\": \"kugou\", \"type_name\": \"酷狗\"}]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🎧┃明星┃MV",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MiSou",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🌖┃米搜┃网盘",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanSearch",
+   "name": "[https://www.ls660.com/TV/feimao.json] 🚃┃盘搜┃网盘",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[https://www.ls660.com/TV/feimao.json] 📚┃少儿┃教育",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/1903b-eb0f1675-2437-4e72-bcf0-427b1626d79fnull\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[https://www.ls660.com/TV/feimao.json] 📚┃小学┃课堂",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/a1140-144855fe-3eaa-44f3-b689-6812c233de54null\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[https://www.ls660.com/TV/feimao.json] 📚┃初中┃课堂",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/ba156-73e16cad-8257-4f33-b8c0-e051e72e546dnull\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[https://www.ls660.com/TV/feimao.json] 📚┃高中┃课堂",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://img2.gelonghui.com/library/e44b3-4a82ab48-e014-49b2-bb66-ee5207e8f195null\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Push",
+   "name": "[https://www.ls660.com/TV/feimao.json] 更新博客：ss.laosu.xyz",
+   "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
+   "ext": ".json/txt/ken.txt",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[tvbox放飞] 秒看",
+   "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+   "ext": "{\"dataIv\": \"c60d88b2eep53za8\", \"dataKey\": \"c60d88b2eep53za8\", \"site\": \"./lib/get.txt\", \"token\": \"06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469\", \"ua\": \"okhttp/3.10.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppYs",
+   "name": "[tvbox放飞] 还行",
+   "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+   "ext": "http://m51.gotto.top/api.php/v1.vod",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Douban",
+   "name": "[我的] 🎬豆瓣┃推荐反馈群：https://t.me/diaosikaifei",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanConfig",
+   "name": "[我的] 🔧网盘┃授权扫码",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HJZhenCai",
+   "name": "[我的] 🍎花卷┃网盘不卡4K",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"site_urls\": [\"https://www.hjzhencai.top\", \"https://www.huanjuanwp.shop\", \"https://www.aihuajuan.top\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Gege",
+   "name": "[我的] 🧸玩偶┃网盘不卡4K",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwczovL3dvZ2dwYW4uMzMzMjMyLnh5ei8iLAogICAgImh0dHBzOi8vd3d3LndvZ2cubmV0IgogIF0sCiAgInRva2VuIjogIiIsCiAgInVjQ29va2llIjogIiIsCiAgInF1YXJrQ29va2llIjogIiIKfQ==",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JingCai",
+   "name": "[我的] 🍒咖啡┃老剧",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7",
+   "name": "[我的] 🐷猪猪┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "AppV7Fz",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7",
+   "name": "[我的] 📺追剧┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "AppV7Zjdr",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Mtq",
+   "name": "[我的] 🍊太奇┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"hide_unplayable\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MiNO",
+   "name": "[我的] 📱MiNO┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"auto_fallback\": 1, \"rotate_device\": 1}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JuXiaFan",
+   "name": "[我的] 🍚下饭┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"site\": \"http://jumianfei.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HiApp",
+   "name": "[我的] 🌐云播┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"aes_iv\": \"MickwrKuMickwrKu\", \"aes_key\": \"MickwrKuMickwrKu\", \"api_base\": \"http://app.tuxianimg.com/api/vod/\", \"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"platform\": \"android\", \"referer\": \"http://app.tuxianimg.com/\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppRJ",
+   "name": "[我的] ⚡秒播┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"site\": \"http://v.rbotv.cn\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Symx",
+   "name": "[我的] 🌿木兮┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"site\": \"https://film.symx.club\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KanJuMe",
+   "name": "[我的] 🌍世界┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DianYingXia",
+   "name": "[我的] 🦸影侠┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DongPianDi",
+   "name": "[我的] 📼懂片┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Gulu",
+   "name": "[我的] 🌀咕噜┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ShanJu",
+   "name": "[我的] ⚡闪剧┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Gz360",
+   "name": "[我的] 🌻瓜子┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YunDuo",
+   "name": "[我的] 🦢大鹅┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"aid\": \"com.web.player\", \"client\": \"8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a\", \"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"finger\": \"WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2\", \"host\": \"https://323433ssdfd.top\", \"sign\": \"ddtvf65f3a83d6d9ad6f\", \"sk\": \"WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XiFanAcg",
+   "name": "[我的] 🥣稀饭┃动漫",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"email\": \"\", \"password\": \"\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Dmghg",
+   "name": "[我的] 🚩国国┃动漫",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Ciyuancheng",
+   "name": "[我的] 🧚次元┃动漫",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"password\": \"\", \"username\": \"\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppXY",
+   "name": "[我的] 🌟星丫┃短剧",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Shipu",
+   "name": "[我的] 🥘AI漫剧┃漫剧",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MiGu",
+   "name": "[我的] 📺电视┃直播",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_GuaziTY",
+   "name": "[我的] ⚽瓜子┃体育",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KanQiu",
+   "name": "[我的] ⚽叭叭┃体育",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Bili",
+   "name": "[我的] 📺哔哩┃番剧",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"cookie\": \"\", \"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"json\": \"https://nos.netease.com/youdata-netease/public-utilUpload-mLabnZG3ucMRjjDV4Hury6.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App99",
+   "name": "[我的] 🎭剧圈┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"LoginPath\": \"/app/log\", \"appkey\": \"d1f0c269eab74d93821fffc9befdbbba\", \"buildNumber\": \"2002\", \"buildSignature\": \"054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594\", \"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"host\": \"http://124.221.3.182:19987/app/bn\", \"name\": \"剧圈圈\", \"package\": \"com.qingtangxiaozhuan.xyz\", \"versionName\": \"1.2.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_App99",
+   "name": "[我的] 🌞半日┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"appkey\": \"d1f0c269eab74d93821fffc9befdbbba\", \"buildNumber\": \"2001\", \"buildSignature\": \"A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC\", \"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"host\": \"http://103.217.190.91:19987/app/bn\", \"name\": \"半日闲\", \"package\": \"com.yf.lelian\", \"versionName\": \"3.5.8\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jianpian",
+   "name": "[我的] 🎯荐片┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"site\": \"https://api.ztcgi.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TingShiJie",
+   "name": "[我的] 🎧听书┃有声",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QiShui",
+   "name": "[我的] 🥤汽水┃音乐",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\", \"site\": \"https://app.365ting.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KuKuMusic",
+   "name": "[我的] 🎵库库┃音乐",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Lanlan",
+   "name": "[我的] 🎃南瓜┃影视",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"apkMd5\": \"415705b07be237654f9a760306f01c9f\", \"appId\": \"10003\", \"appKey\": \"00823f50736454de37cfef8b260c9e35\", \"appSecret\": \"aca767d257733a3d97fe125bb9150feb\", \"bizHost\": \"http://134.175.188.60:2025\", \"host\": [\"https://nanguasp.oss-cn-hangzhou.aliyuncs.com/nannan07124.json\"], \"newHost\": \"http://134.175.188.60:4491\", \"pkg\": \"com.dongyu.movies\", \"pkgMd5\": \"725e9c0fda0e0925e234d8256dc08b07\", \"privateKey\": \"MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCN9LrnN2+FFW9oTw5ySIQxClbNZyPQyXyueQmsJw9PELWamIvyrVDhsi2862Da83nXRwjzcBsuT3fSq4BETKfRpsOrI3xprN6HyB+aALoYJbdMt5p3liUeyaw9WNxGZ2VhJ+st6ThGNikKRinFgPkOKaocZgefK7MuKI/EJKrj/FFB1WUE1I1/TT5bkIFMmjc8dszKyqxNdDaRgNTNP1Xou0s/tRCgKpmc503wf2h46F94YK6tpbHvYKouCCKps5ieUu+eWsXZmLRfiM0iZQcD0K5wcbrMvWcS/KmElkWPsCOwErpd/EDgeIbVKtsoHPewG8fOta75iCcb8/J56VbZAgMBAAECggEBAI2+8WIvWIvq+3OMfUBgaJ8PU92GP50blAQjmCTuW7r3VF8qM5P+u+ShpkoePnhi5iawJ5/tMTbs4xjZZxrL8EbH3lnk9TYQB6RNkECWuTujbYSNURBYPHihp/sZ39ntJK3+zjbpyedR7Wj05oDwZ8BcmiABQVsOp7xPhD623m0G3wSYtv1bIeCc+vP8pc1kauCPXl5ZyNCUN6XZKH1mvRkGd+VP9hCYr5LOsPVvn3JM8yF5HUJbxltzZVU/m9WcN9D3lcJ9pqpKBd99G1l5zsN+U23+4VvwX8Qhj4ZkNlMCaNndj+6PvhPGMp4+cCpt94I3xh/OqjdrUAd6jnZpioECgYEA709jQ+yFCobRPKzT/PT6KsqVIJJn0FTMXVc1VP5Sn3t5NTQ+iLzOxQRcO1aTNFVgNKhIgsVnVlGh+1Oa2Zor3vXr1eQBjHCZ2zOH+2QdZbRk4GXoOsZ0d203H189SBCTVj20Zd8mL5csBvihIsMjKZ6R62k/mEyOLD+IVuh+axMCgYEAl9sxrVbU1bvGYgHkGWV7BkqYsezOXR65F3eRq8jbNV0YdYN7rnFCStllIJsMCzJBSs2rBD3lcY6/Tk2ThlFIVHVEhgjjRAUIrLHQBJrFKCSusDMGX39Ekk5DZa+5JNak5J7Ikon6klYtDa1G8PFQTJDKTDfQLm/NgryVFS4Np+MCgYEAljLAfcg8NEAroSZkIvbq8OKXOItLRxGB9u+eVIsO9nP7vi3dNdsy96rl7IRI/ea77DDW2eTmF+JChUiS/xJpiJXXADcL1cZyeobcSScr4EKZsdGkMQeP38kXeMRA5TMqFk3CJNIq2GHMS0/Pas8JCb0xnow/UupxrUnu24UumysCgYBKjYuLDVk6gZC45zLEISVQBmmG2LrLztySH9q9msO8JDNw5hdfoi0osChM5LH6ATc68VQnpfeyU6GqYL2vsNIw3M3CfDSPXWVP25BD4nQu7CtzR+m2ErZomdHO54GfC14y+51/DAyfsX02/L4aZm7E2ETpPHGRisQ7jjgnCNAdfwKBgQDSVzfLvsDi2UqbTjyEIeVYPfgm3Owo0fh79rKvinAainQHabVkAezx+RwiJdWeor/08WiyDjFZC86hJOH8gSMLZ2yJw6EVgHqLTvJ+nkYbk0LzvS2gS2h9lDnqOkkKGZBc5l8k/ScCytcDz3WUFEC2TV2CXDj89H14699s1SjpSw==\", \"publicKey\": \"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfgFYt5LTHeDslGbyQb836pa/f9FaJa20ZvU3rq2TaT4QxbhzMz0QlXhxyJA78VEooiFzNsOKJDFZAvAYGHid1BvTkqEmwaUD38WN/gOXWPevX20X13kbKlKctbTzqB6CsKLdxYyjB4awtF6o66cVFwLAjPmeePSxiSIoMKaO8jZakhHlPMhIgztAgd09eX+bSM6pve35k9CV5X2GSey7Dtth4DQz/NZVc8HGb79uhyrwH1h6IV3BKgOoqcpsHUcggoV1bJ3IIT0+WUMM8S9Yo2dh9T2EXc+gmIH0UAIxwKxmO1jTNzTDR7BvOCMnJQs5DIUx409BPdLdg4zg0SbmQIDAQAB\", \"signMd5\": \"d97197f84e41b05941688809857e0685\", \"soMd5\": \"28922fee11cea66d7e9f2b5c02151b44\", \"verCode\": 58, \"verName\": \"1.0.0\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YXZB",
+   "name": "[我的] 🎮游戏┃直播",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppTd",
+   "name": "[我的] 💃糖豆┃舞蹈",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FirstAid",
+   "name": "[我的] 🚑急救┃知识",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Push",
+   "name": "[我的] 📤推送┃授权",
+   "jar": "https://cac.opple.com/yc-media/getFile?id=b0aa3bb25ebd4b25b69d68a7f7989abd#.png",
+   "ext": "{\"danmu\": true, \"danmu_api\": \"https://dm.211.li/nonay\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DouDouGuard",
+   "name": "[直播] 公众号【白虾工具】搜集整合",
+   "jar": "https://file.icve.com.cn/file_doc/213/397/357636F9E5ADD95F79FC7DE2E84A2517.jpg",
+   "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/douban.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppNoxGuard",
+   "name": "[直播] 👀米陌┃多线",
+   "jar": "https://file.icve.com.cn/file_doc/213/397/357636F9E5ADD95F79FC7DE2E84A2517.jpg",
+   "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunhcnNWtev8SxRwL2VYpMG5d0/TUVDE7mCv2zjQblQ8wz+UVUWDTwR2GS7sg9EpVHt2hIHOIxP/JOfx41qZOnwrLi/T1ZMKs9ZLjhUBrKbdac8P7cwYvGOKuQESIsCAZBDXQMZ/wXycxJI3t3jLYfuPU3mD54+aDQ5IAghbm+",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppSxGuard",
+   "name": "[直播] 🦉咕咕┃动漫",
+   "jar": "https://file.icve.com.cn/file_doc/213/397/357636F9E5ADD95F79FC7DE2E84A2517.jpg",
+   "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YDjisu",
+   "name": "[直播] 九灵｜免扫4k｜移动",
+   "jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[直播] 🧿布卡｜影视",
+   "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+   "ext": "{\"分类url\": \"https://m.ycblcw.com/;;!H\", \"副标题\": \"保护正版，人人有责\", \"编码\": \"UTF-8\", \"请求头\": \"User-Agent$MOBILE_UA\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[直播] 🧿农民｜影视",
+   "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+   "ext": "{\"分类url\": \"https://vip.wwgz.cn:5200/;;!H\", \"副标题\": \"保护正版，人人有责\", \"编码\": \"UTF-8\", \"请求头\": \"User-Agent$MOBILE_UA\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[直播] 枫叶电影",
+   "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+   "ext": "{\"主页url\": \"https://www.budaichuchen.net/label/qq.html\", \"分类\": \"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3\", \"分类url\": \"https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html\", \"副标题\": \"保护正版，人人有责\", \"播放数组\": \"anthology-list-play size\\\">&&</ul>\", \"线路数组\": \"<i class=\\\"fa ds-dianying\\\">&&</span>\", \"编码\": \"UTF-8\", \"请求头\": \"User-Agent$MOBILE_UA\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[直播] 鹊桥｜影视",
+   "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+   "ext": "{\"分类\": \"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#日韩$6\", \"分类url\": \"http://114bate.com/hdshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\", \"副标题\": \"保护正版，人人有责\", \"简介\": \"请不要相信视频中的广告，以免上当受骗！+description\\\" content=\\\"&&\\\"\", \"线路标题\": \"官方线路\", \"编码\": \"UTF-8\", \"请求头\": \"User-Agent$MOBILE_UA\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[直播] KKK┃动漫",
+   "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+   "ext": "{\"主页url\": \"https://cn.agekkkk.com/\", \"分类\": \"日韩漫$1#国产漫$2#动态漫$5#特摄片$4#欧美漫$3\", \"分类url\": \"https://cn.agekkkk.com/type/{cateId}-{catePg}.html\", \"简介\": \"style=\\\"display: none;\\\">&&</span>\", \"线路标题\": \"动漫\", \"编码\": \"UTF-8\", \"请求头\": \"User-Agent$MOBILE_UA\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[直播] ❤️|电影┃先生",
+   "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+   "ext": "{\"主页url\": \"https://silidm.com/\", \"分类\": \"电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi\", \"分类url\": \"https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html\", \"线路标题\": \"保护正版，人人有责\", \"编码\": \"UTF-8\", \"请求头\": \"User-Agent$MOBILE_UA\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Qiyou",
+   "name": "[直播] 奇优┃肥六",
+   "jar": "https://wp.kayyw.com/f/nOjVCX/%E7%83%AD%E6%92%AD%E8%B7%9F%E8%82%A56.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jianpian",
+   "name": "[直播] 荐片",
+   "jar": "https://wp.kayyw.com/f/Odakcd/vox.jar",
+   "ext": "{\"filters\": \"http://rihou.cc:88/json/jianpian.json\", \"imgUrl\": \"https://img.jgsfnl.com\", \"sites\": \"https://api.ztcgi.com\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Guazi",
+   "name": "[直播] 瓜子",
+   "jar": "https://wp.kayyw.com/f/Odakcd/vox.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppGet",
+   "name": "[直播] 🐸mifun｜APP",
+   "jar": "https://wp.kayyw.com/f/Odakcd/vox.jar",
+   "ext": "{\"datakey\": \"GETMIFUNGEIMIFUN\", \"host\": \"https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Jpys",
+   "name": "[直播] 🥇️金牌┃影视",
+   "jar": "https://wp.kayyw.com/f/EQ4Mu0/mao.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[直播] 🏃‍♂️‍➡️追剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "85915714a2413f05151fea6864509533510f64888873c9014549f490a22fcafbe95529819a25c21bad6ad07d44cd28a5a28acb9d207ef4ce35f2e61950bbb27c00c9a268ee66a11cb5943790a877b4b66015010ed7f2a3c6f35b794a29dfaf6762ace01040b2ec17d426cf9cb2a1a9d55450210a11dc1ff0584959270cf53b6d3aea808e786f3c2d18bfb68172f0abb7a06ca65937e9a325415139809f045e71a15a349ab2862e8dfe93f2cb32d1e5b7f9cb2a906741073828339df5bd0f06125ebee88a97fcf33c72e57e9b090d3766b1c513c46a06e5c6ab255725cd2c42938351ec736b5980b1a08bfac2484ffccf82a6f77a34a8a48e15ae0ea7e5b15c49bbf3e59217521e29129733f372511540c52165c8411ace8b94b928a8fc89ae86ebdb1b9d502b438adb692ef9ae36f9f577b4d57654dcdec9957b9f6d14924d329ff79d4fc21ade518d7190673dc7a64cab4d3b91a0f12134dfd8433d6cd80f725a9f4215e2289adb9b8efc835264733c12f76fa846a31b586572f81b07d3d8415c871afefbe611a28207a382af39b34dc5864a2f53daf7065befd08e9fedb41cb5dc84a695dda6dcbb35e7029f9bc871eaeb76503a5f8609be3cde35b3710b936d4553be54cac89b9d71cffdb4598e110b11bb9b407c32564348da2fcb0d3e6d58be80ccb2e80c614f98d21ce21ed6701218fcfb8655a5ac7a0d521c924a7dcdae734d548002600453214fad768efe3752ceca97aad95698ed3b3eabe4cff044d5b0e5b0dd5bde5b8e7165b033103587fb23fd9b08bdbc675f471b847f41c5f9d176f750e781254c2ea3bf681ccb481badedd016f8913df5b1a2b0dab7f011f16f65aed372d8c6f12082fbc9a781a8f5c1de2aa9c6d27d54fd25551e2f39845a358b5a3d8c63e196a6aad827a4d6a77428958b5d98128782d57916240dbcf29c8e4fb268a520c31015bf9ebdeea10be3a1a255846740ad4de3c4896fac513df787167118e0c0869a661dea81b2e0c348e40b84fd2e67cb834dc9c20e0f53dd1b55a09d6f842559e922c2d9fd2e474d7b6a9b2cebe6985e796293e3dad844e524b9fb2058e2a6d312ee5561715e62b316cc7fbe21fb0e88cbac44394b8a8b58f14a40d1e69b658170711ae2685ca3ebed3f7dbeb9ee3032fefa1d7aa1dd634b11d30ef46a8ba353a842bf7dd3e8413584d51e442c9b13a72ce925954c12fa1233790bea516196cf399a49c4dd68719b13cde08f3dfcf199a9128eaa11878277cf2b8adacdba461760b19493844f8bc0cab44a9c95c8b51b3a492836aafc4f806218c13901416cbcb5a8ade0a0b3d98810aba52dd3a1f8db016412d915b0f0b29c64a5dd87efdf46a347f83878fef76b3d0fb1150451dbf606fb1d7a018f4cfe87c5f6bdf3bea9ea1f7605e1eaed174fe1b7aa5644f92e34d41690898fc0cb36f667a387e41332e4dc24e4d89f6971fb8fdb9fd21617851f388a60555dd0a2f1049e6f90a43b97cedbbc6b6eb976b0cb512b3da020fef15933dff6451cf0083e6fc2706f010755df198da9367a1eaaec4c4658ba21557bcc8313ce644ac90d28b5276d565c0a7359eba00a6ad3cfb5a3d5b42c885d521b8e237fb36de35bddd0e227c2fb2b0e330202137f66309df3217c2a9d0a8f086551785f8fac59505307d0c4cf7cb97d59d871f1b4dee5aefe629c147747841ffb840a3e7337889f8b6e173c8c44de912279ad4a21afea366f9250653a066cd68cc0caec9dc9ed9ee3d3b81226958637962d2c0f7f30fb8e7c7ce5191902c45ffb3c3d6a33ddeee3264148f413b2a894faaafe62c2512c3e8948596d5d44eeae4ea84dbea56fc942340b3377e2ffd15aad9450cd4884de48424fc174dc6c2b964ca86da11c7923b38e1889ce39105601f48b1bd6302d19bf21b156a52d1e65bb6ff2e4390d1444471aa65ef3dac4a4dc3a22ad60da3259fa57cf110db9762ad3726975a265b73a6ed777f62accfa336d17fd9d8368889fc81a365c6efdced7414225fe526677086780175275227700690f006a1abf560c60484fc315186292c9b27bfddab92e2b33feb48465aa071c41ea4c614f7e466c7ea98b0906582232f3ae04591b91c3f603bd94a391ee609bf929c2f84238ee613da781d0563926f083ec7cb5f9e5851772b799996be3453ee4e76ca55fb9d8fd2e505578ea6b000cb959501866337de9fe2fcb9b0e9fda6543123784651aea0199fa4c63e9a337f0a68e38fd51c6a3524893d5da0cbe06360bf3a91eb58cb44818ea24a558b7d55691ad84288a99a97b6e3fec9f44a0479ed762c11a2c44e3e0aedf08e381de6c2b9673491b5d2f40a663bfb947fbfb5ed4b2e67304d3e7dd9f4fc3e556a58cd35c30486e37ff459175533c6acc25a4c72ec6631babe9ab16d48f3cfb8d7c93728bff71d3835371bfb11d1d065215a6a692792efa5d95308dc5c7db7d85937e7e93895527344ac9a43893228b81eb54890769d9260ed4c6524cd8bd4498b5cc921e9a526f9f94201fc5f7c637f46fabe893b7a8b4df9e8efce92eef8428f0ec8e3e5e4548b0726cde6ff60767565d0173b87eef8a711218ca67be61d98b1c308576fdb79b0363adce6f2cc08f21e17c6e196af0e9d5c506abc14724b98fdcbfb558cf6b329e36ad4fe7bd1145aaaa9d3a5bc2a253c8c346032e7eb069dd14d874123a6149533e73ff79f5a8b247b31bcc4502ec92b27f1b8c4797da3ea718d914af067bcac1cd013ca33d7fa41c941732583f990ea9a2eb38db6851ed4f6ed52bf32ba9fae7b805fc9301d34dd3435f74e2bd21014aab4b24f2acffc2f25f4e028c8992dda1b79ceb398cacb2c68696c1444912bdbfe88b72f0132499d1d5be70cae20ea66c20753fc13fe139afb01494ecfe7f3a0f0b39eeeb364ff6eefaa52db38315afef305291766c21416858486be355d22f4f367cc8051f8bc772289b717035e161be12f08f2d0e73a1df",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[直播] 🍊柚子",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "3d1e5714a2413f05151fea6864509533510f64888873c9014549547c4b35cb1adeee20e0d57ba3751a77a841c05ab07707cfd47e5ce58300c4d76a63b36769f5ca194cdd372e6467113c881d77e743db16d7abe2ebd99e610047bc3a54b53b4f7bede852c8e349a047965ceded596e9c7cdb344a399e97218a77fdb81e930db1d2f09f2d4c2be1d6c471c80699fc615e8ec072aba54e4f79e9c56aeaa4461e497c6c381b699686935bb9dddf708e9d482bfc16e5aeae6235094fb4d8fa6741ca8318b2520013ff54ab8cb1203d078e4b8dc78abd041b48191ec6893734015fd08d2f4ebc76193de569e55f74a5397c5ea4213b9345bd027ac2986c63ce65636cd7f91f9d30d1ad37b9b4d6de92d545a1545924904a7a4c1b06d181b5dda5f13df8fd20d812125da97f030cf56d088e4ba52a074f50fabccfade34dc57f3c03ca2dc2231bca5a56800380d95dfa36f2cd731c7bd3c7cb97c8d3a027226b7841694066964d2811f51dcdcf51b44eec61fe79b3f778f338ac061b89290367806e3639e3e632c4422005eef3805f21c7c6eb2252646bdbd5fd668956526496a4927b626c15bd74d80fc0a58dd2647e719a0a8d21fd207b69b1c775523b08c70a3dee2aea403e66d607c91b2105eecc7a5ca1779451053760a9ef708a626174bef4e4d14fcbef3c59000a137848cfe87ffcb5406e6612998c20962d531104c94b68b5114051fcf3c647ea8a2665b0f35e6e5f06f8d654d2945d53660a7268ec4e606c1ac91c1d4a33234e8c10e9cb4fc33fbda28d2a51f9378b2a42ce4c3f36deb8dd8456137ea629fa56b51423ba2cc77e1dc446bb399b2b34d46ded47e6031ae0a48ff8007485a5d332b2b4fd4341447524d146a158717fac4ffcfb0684785f7e2fda78ce8f1ab57104edad3e787ef181308a87b302511bc8c1cd013b8300fc9420bf3b95c4b248388fdec739da889b46400def0e45efd17f3782fe86ce385e5deb50202d99901cf65453b6bd4b19a341d81cf64d04599dd80bdeb725c0a1704b6959c13c63c3633ba58a4f4a15e1381b61a78253acad57051986e1c78c22583e14feb3a7883817bd9f44b61d97b199a0548da74d8d42fd5bdbce1f9aade63089e148e67f8199a54929f8ab7ebbf657cd2991e8b0424fbdc12a298dac718d8d16aad08fa48a6f2f3acfa6158a25dbdb08e3f743190797ec02b917f0660089c2b0c6656c90c60f4b967878658dffab59cee978122150f0911712dbe1856cec69ea475c470bfd15b3ebb5a7326d73fd576f456d7b1eafed6fb264e0a38594998377d62b8d617ae6808f739ab11d4d62c940b80010622a569a207ec81f54644e137f0f569e1c75032c246e5056437423f0a1ced626875c928d763c88f986568f2329b787381634e6687c2d52412919208e08220979c6f7467cea0f867ea032d502e77cb8dd3a8198c32f85a355a18228695a1baea2d79647c497a8382d7dab6418a05e54c6c10407f4a91d54f895fe8ddd46008c48fb3adbed3bd5ee3c382b8ccb50089677cf87d77b1a2b1921b04a02c3c569aacaec3b1e63d36a00e6877436a09be267ab1efef4e6cc5313f83eb976b043a25837e558d26b4c116354dbd7df6d6c35a172379831183ecffcea78d347223bc4d31e1a67535bc620c016b91b32f9d1e009672fb95eeb4aa307d6fbe98d5b4e6387df5486097d4a7307b025606c9fb6a7e83d1614ffa8742c907065781d65f1ccfecd52a6c474b38e8e40d3ae9c2d624ed44e94ac3656166b372410f7ad81fdd59388aa79f6eefa6509c7e430135c5ed18538565c0a93e7bc2abbc05ee018764466fcae61d31587c9ced6eb530993edffcab13f833a19b81f0c008b7ffc5fae56c580d15451a4431a3d95035e7036ca63ff95e1aa96c22f6ed0c633d0f2984098f4639f5e501c0efab202f9d15abd54cac54fecf335b751c363fa967ebeffea3571b215e40cc3dde3d097e9d1f7e8f43c22cd8444496c82d2264309f48d7cdc2a72fa6ecb6046cfa3b1a28f758c252b6fe2756dd87030a13fb0b3554c985bcec9d5c68bbd8e140712e3da62c21714c740d3aee893d89d8ed89e881cad96fc0c62289d142c7c5e45d08c7f362af467e3fcd256b39139d767c6457ea6a93530d350ebca8c1d72c1fd044368b519f2704b49bb7db8320314be5f96310df6ed5970fcbaca8c5790f4fa2727ebc7d6e166292d20620d352db84c6b715d22920703ad6f6a93112c9c4d1072612d40e6a4cef63e78ccbcd290da7084e36df0a073502d05e40ca43afeeedca2d91f9a55095da0fcca774e75ce5b16ea40ff00ced03a3adfbce5f738de8bd66222cc2488ba282c6fda512959c26203aa28845cef8d351a434dd089779d548fe1f95b9a35d56caa7ff7ba864dea86af17cd27459471865f9954ceb2a2043cb1eef09bc416c9e3f346730cd1256bd725a68acf53ee96156f678961a0e283aaa24f7cf58fd417bc1428fab366d890c40de1e913eb83cf55cde9ff4b9cf5cb4cae2d29b3cecfe2a8f9bc32ebc0a47430bbbfc0afd6be8e5a785d2cbd58452f69ccab0fe9a818922a624cb5dc2458e1c605a0485f0c6f3d1095f23f9b0c4db2580570e24251fcc4aa92d80d67553cce5d80f25ff996a413ea8cb2f7cceb83a0b001185ce7cd7735a01b31e15451740595a7bc61babe2b7e86dd3189469b97c9d3571ac6d822282b7f2194838fc404bfe90c0b2e3bf0c14744af6f8f0759e7c3ed02b277d2e1d29f453e75ba752d7bed7f5a891ebf7df375a8623ff2e297dc8294179aedfb86ee3b7eac45bb1d8c4f0acb86d023c4d36484349372a942bb797426e9e70fd16382c0457f0e3dad5e9df09f284d4d1703161744ae97335a84b6ec39ac0de44373e2237e0cf38979b66ae446ddd3bcb537bb2cb0c989de07598561c01fd90e4759de175c9ed926cc42b49be531ec209a3c13c11ad6903b7dfe1b3a267437c73777004f159ddb8c59c9e55692a75c147fd03e3e31b9156d95d3f46b61ac0d86d8417c2e1605d0c3aee82ba62942e8007e2d",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AowuDmAmns",
+   "name": "[直播] 🐱嗷嗚动漫",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AowuDmAmns",
+   "name": "[直播] 🐱番茶动漫",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "a2a157143fce50cabe524135fd3fb26e4af09034942cb186addd2360d64a7fb5c9b7ddaede42dd983c638ddd5064f276cfa6afb8c43429de354b19c59f234352d43c095b60cf88bba8346f1b792fdc917ed229f084939e631faf8eed7cc1d53bdfd143be9e1c38ef8228663806c2e74f046ea6dae90f06581eafc6b6a4ee34ae6ac583ae5beb6bc49e710536a49f66feb74afc1950841752c37975c85f1b60cc0408b4f3b4c80e2b187fe843378e7ebfbfcd128e48a2195bfc5d1104cfc58ed98ccf5c17428aafdce4d3b14ada75f28c5c2f8856",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HxqAmns",
+   "name": "[直播] ☕韩剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HgggAmns",
+   "name": "[直播] 🐲漫剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "comic_series",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HgggAmns",
+   "name": "[直播] 😈短剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "short_play",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HHkkAmns",
+   "name": "[直播] 🍭豪堪短剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HemaAmns",
+   "name": "[直播] 🛸盒马短剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BddjAmns",
+   "name": "[直播] 🧸拜拜短剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WgdjAmns",
+   "name": "[直播] 🎀围观短剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QmdjAmns",
+   "name": "[直播] 🐱喵喵短剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XydjAmns",
+   "name": "[直播] ⭐星星短剧",
+   "jar": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DoubanAmns",
+   "name": "[大嗷呜] 🔥豆瓣┃推荐",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Douban",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Y360Amns",
+   "name": "[大嗷呜] 更新日期:【侏罗纪】",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Y360",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AAConfigAmns",
+   "name": "[大嗷呜] ⚙️配置┃中心",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_MyAllAmns",
+   "name": "[大嗷呜] 📁资源┃中心",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HgdhAmns",
+   "name": "[大嗷呜] 🔥短剧┃推荐",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Hgdh",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XfdhAmns",
+   "name": "[大嗷呜] 🔥下饭┃推荐",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WoggAmns",
+   "name": "[大嗷呜] 🌟玩偶┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "woWogg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WobgAmns",
+   "name": "[大嗷呜] 🌟木偶┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "moWobg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HxqAmns",
+   "name": "[大嗷呜] 🚀韩剧┃秒播",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_GuaziAmns",
+   "name": "[大嗷呜] 🚀瓜子┃秒播",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Guazi",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JinPaiAmns",
+   "name": "[大嗷呜] 🚀金牌┃秒播",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NewGrV2Amns",
+   "name": "[大嗷呜] 🚀秋天┃秒播",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "NewGrV2",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦师兄┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Dsx",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦浮舟┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Fz",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦星野┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Xy",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦织锦┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Zjdr",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦玄珠┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Xyz",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦衔梦┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Xnm",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦鸣泉┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Mtq",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦琳琅┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Llq",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦衔石┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Xsz",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AppV7Amns",
+   "name": "[大嗷呜] 📦星海┃APP",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "AppV7Xhr",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanHjAmns",
+   "name": "[大嗷呜] 💎花卷┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "PanHj",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WobgAmns",
+   "name": "[大嗷呜] 💎多多┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "ddWobg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WobgAmns",
+   "name": "[大嗷呜] 💎虎斑┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "hbWobg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WobgAmns",
+   "name": "[大嗷呜] 💎蜡笔┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "lbWobg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WobgAmns",
+   "name": "[大嗷呜] 💎️闪电┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "sdWobg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SeedHubAmns",
+   "name": "[大嗷呜] 💎Sed┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "SeedHub",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_GyingAmns",
+   "name": "[大嗷呜] 💎观影┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QiweiAmns",
+   "name": "[大嗷呜] 💎七味┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Qiwei",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ZhinanAmns",
+   "name": "[大嗷呜] 💎原盘┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Zhinan",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SheQuydAmns",
+   "name": "[大嗷呜] 💎逸动┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SheQu123Amns",
+   "name": "[大嗷呜] 💎123┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SheQuwonAmns",
+   "name": "[大嗷呜] 💎蜗牛┃4 K",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DMlmmAmns",
+   "name": "[大嗷呜] 🐱嗷嗚┃动漫",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DMxifanAmns",
+   "name": "[大嗷呜] 🐱新帆┃动漫",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DMoxAmns",
+   "name": "[大嗷呜] 🐱牛来┃动漫",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DMbusAmns",
+   "name": "[大嗷呜] 🐱贝斯┃动漫",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DMxiguaAmns",
+   "name": "[大嗷呜] 🐱冬瓜┃动漫",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DMmoduAmns",
+   "name": "[大嗷呜] 🐱魔都┃动漫",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BidysAmns",
+   "name": "[大嗷呜] 🛸哔嘀┃蓝光",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Bidys",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_CzzyAmns",
+   "name": "[大嗷呜] 🛸厂长┃蓝光",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Czzy",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_LibvioAmns",
+   "name": "[大嗷呜] 🛸LBV┃蓝光",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Libvio",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HgggAmns",
+   "name": "[大嗷呜] 📽️嗷嗚┃短剧",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "DjHggg",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HHkkAmns",
+   "name": "[大嗷呜] 📽️豪堪┃短剧",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HemaAmns",
+   "name": "[大嗷呜] 📽️盒马┃短剧",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BddjAmns",
+   "name": "[大嗷呜] 📽️拜拜┃短剧",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WgdjAmns",
+   "name": "[大嗷呜] 📽️围观┃短剧",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QmdjAmns",
+   "name": "[大嗷呜] 📽️喵喵┃短剧",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XydjAmns",
+   "name": "[大嗷呜] 📽️星星┃短剧",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JuzhiAmns",
+   "name": "[大嗷呜] 🔆橘汁┃快速",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Juzhi",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_RbysAmns",
+   "name": "[大嗷呜] 🔆热播┃快速",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Rbys",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DubkAmns",
+   "name": "[大嗷呜] 🔆杜北┃秒播",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "Dubk",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JPianAmns",
+   "name": "[大嗷呜] 🔆荐片┃快速",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "JPian",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiBotAmns",
+   "name": "[大嗷呜] 🔆爱看┃采集",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiGuaAmns",
+   "name": "[大嗷呜] 🌍爱瓜┃墙外",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YspAmns",
+   "name": "[大嗷呜] 🌍U视┃墙外",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_OlyyAmns",
+   "name": "[大嗷呜] 🌍欧乐┃墙外",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AiyfAmns",
+   "name": "[大嗷呜] 🌍壹帆┃墙外",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliveAmns",
+   "name": "[大嗷呜] 📡Bili┃Live",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HuyaLiveAmns",
+   "name": "[大嗷呜] 📡虎牙┃Live",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_GuaziLiveAmns",
+   "name": "[大嗷呜] 🏆瓜子┃体育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "GuaziLive",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_FeiqLiveAmns",
+   "name": "[大嗷呜] 🏆飞球┃体育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BbkqLiveAmns",
+   "name": "[大嗷呜] 🏆88┃体育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "BbkqLive",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KafLiveAmns",
+   "name": "[大嗷呜] 🏆咖啡┃体育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliAmns",
+   "name": "[大嗷呜] 🎉合集┃哔哩",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "{\"cookie\": \"\", \"home\": \"1\", \"json\": \"https://file.icve.com.cn/file_doc/299/797/4AFC77E563EDEDB37F18BA6458610E16.aowu\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliAmns",
+   "name": "[大嗷呜] 🎉歌曲┃哔哩",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliAmns",
+   "name": "[大嗷呜] 🎉戏曲┃哔哩",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliAmns",
+   "name": "[大嗷呜] 📚少儿┃教育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliAmns",
+   "name": "[大嗷呜] 📚小学┃教育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliAmns",
+   "name": "[大嗷呜] 📚初中┃教育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiliAmns",
+   "name": "[大嗷呜] 📚高中┃教育",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "{\"cookie\": \"\", \"json\": \"https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TSaowuAmns",
+   "name": "[大嗷呜] 📖嗷嗚┃听书",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TStyAmns",
+   "name": "[大嗷呜] 📖富强┃听书",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TStzgAmns",
+   "name": "[大嗷呜] 📖文明┃听书",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_CzyyAmns",
+   "name": "[大嗷呜] 🎸橙子┃音乐",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KuGouAmns",
+   "name": "[大嗷呜] 🎸酷狗┃音乐",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KuwoAmns",
+   "name": "[大嗷呜] 🎸酷听┃音乐",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QTfmAmns",
+   "name": "[大嗷呜] 🎸蜻蜓┃电台",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PSfishAmns",
+   "name": "[大嗷呜] 🔍飞鱼┃盘搜",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PSdjuAmns",
+   "name": "[大嗷呜] 🔍觅寻┃盘搜",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PushAmns",
+   "name": "[大嗷呜] 🛴推送┃播放",
+   "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Introduce",
+   "name": "[接口] Cookie设置",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Wogg",
+   "name": "[接口] 玩偶哥哥",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"site\": [\"https://woggpan.888484.xyz\", \"https://www.wogg.net\", \"https://www.wogg.live\", \"https://woggpan.xxooo.cf\", \"https://wogg.xxooo.cf\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Mogg",
+   "name": "[接口] 木偶哥哥",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"site\": [\"https://woog.nxog.eu.org/\", \"https://ogkk.nxog.eu.org/\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_SeedHub",
+   "name": "[接口] SeedHub",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Dida",
+   "name": "[接口] 嘀嗒影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"site\": [\"https://www.didahd.xyz/\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanTa",
+   "name": "[接口] 盘他|139Pan",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BiXin",
+   "name": "[接口] 彼心|139Pan",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Qupans",
+   "name": "[接口] Qupans|Pan",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TgSearchQuark",
+   "name": "[接口] ☁TgSearchQuark┃网盘",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"api_urls\": [\"https://so.252035.xyz/api/search\", \"https://s.panhunt.com/api/search\", \"https://pansou.app/api/search\"], \"sources\": [\"夸克\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TgSearchBaidu",
+   "name": "[接口] ☁TgSearchBaidu┃网盘",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"api_urls\": [\"https://so.252035.xyz/api/search\", \"https://s.panhunt.com/api/search\", \"https://pansou.app/api/search\"], \"sources\": [\"百度\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TgSearch123",
+   "name": "[接口] ☁TgSearch123┃网盘",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"api_urls\": [\"https://so.252035.xyz/api/search\", \"https://s.panhunt.com/api/search\", \"https://pansou.app/api/search\"], \"sources\": [\"123盘\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TgSearch139",
+   "name": "[接口] ☁TgSearch139┃网盘",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"api_urls\": [\"https://so.252035.xyz/api/search\", \"https://s.panhunt.com/api/search\", \"https://pansou.app/api/search\"], \"sources\": [\"移动\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TgSearchMagnet",
+   "name": "[接口] ☁TgSearchMagnet┃网盘",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"api_urls\": [\"https://so.252035.xyz/api/search\", \"https://s.panhunt.com/api/search\", \"https://pansou.app/api/search\"], \"sources\": [\"磁力\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KuaKeBa",
+   "name": "[接口] 夸克吧",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DianYingYunJi",
+   "name": "[接口] 电影云集",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_KuaKeS",
+   "name": "[接口] 夸克网盘社",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ReBoYingShi",
+   "name": "[接口] 热播影视4k",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XuanFeng",
+   "name": "[接口] 旋风影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NCat",
+   "name": "[接口] 网飞猫影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_ChangZhang",
+   "name": "[接口] 厂长影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "https://www.czzy.site/",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Zxzj",
+   "name": "[接口] 在线之家",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_W55Movie",
+   "name": "[接口] 555电影",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "https://w55xy.com/",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_DaGongRen",
+   "name": "[接口] 打工人电影",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HkTv",
+   "name": "[接口] TVB云播影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "http://www.hktvyb.vip/",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_NG",
+   "name": "[接口] 瓜瓜",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_JustLive",
+   "name": "[接口] JustLive直播",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Ikanbot",
+   "name": "[接口] 爱看机器人",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{\"box\": \"TVBox\", \"danmu\": false}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Libvio",
+   "name": "[接口] 立播影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{        \"site\": \"https://www.libvio.app\"      }",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Ddrk",
+   "name": "[接口] 低端影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": " {\"site\":\"https://ddys.info/\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QxiTv",
+   "name": "[接口] 七喜影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Glod",
+   "name": "[接口] 金牌 | 影视",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "{}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_YunPanBa",
+   "name": "[接口] 云盘吧",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QiLeSo",
+   "name": "[接口] 奇乐搜┃搜索",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanSearch",
+   "name": "[接口] 盘搜┃搜索",
+   "jar": "https://android.lushunming.qzz.io/jar/custom_spider.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Sukebei",
+   "name": "[https://clun.top/fun.json] Sukebei",
+   "jar": "https://clun.top/pg.jar",
+   "ext": "null$$$https://sukebei.nyaa.si$$$proxy",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_TGYunPan",
+   "name": "[https://clun.top/fun.json] TG|涩涩",
+   "jar": "https://clun.top/pg.jar",
+   "ext": "{\"channellist\": \"CosMM18,avpush,ribenseyuge1,cilitu,cctav,ppg1314,avab01,SeseAnime,AVnew,jpccav,PornXOS,CCCTAV\", \"danmu\": true, \"json\": \"https://raw.githubusercontent.com/fish2018/lib/main/json/18pan.json\", \"keywords\": \"名称,片名,推荐\", \"proxy\": \"noproxy\", \"token\": \"./lib/tokenm.json\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XMVideo",
+   "name": "[https://clun.top/fun.json] 熊猫视频",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Doll",
+   "name": "[https://clun.top/fun.json] 玩偶姐姐",
+   "jar": "https://clun.top/pg.jar",
+   "ext": "proxy",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[4k] 🌙┃夸克┃影视",
+   "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+   "ext": "{\"主演\": \"主演：&&</div>\", \"分类\": \"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿\", \"分类url\": \"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html\", \"分类值\": \"1&2&3&4&12&5\", \"副标题\": \"<div class=\\\"module-item-note\\\">&&</div>\", \"嗅探词\": \"m3u8#.m3u8#.mp4#freeok.mp4#/obj/\", \"导演\": \"导演：&&</div>\", \"播放请求头\": \"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36\", \"简介\": \"<p>&&</p>\", \"线路数组\": \"data-dropdown-value=&&</div>[不包含:夸克]\", \"线路标题\": \"<span>&&</small>\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XBPQ",
+   "name": "[4k] 🕶┃耐看┃影视",
+   "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+   "ext": "http://xiaohu.xzam.cn/XBPQ/nk.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Notice",
+   "name": "[ouge] 📢公告停更",
+   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg",
+   "ext": "https://xn--dkw0c.v.nxog.top/m/公告?b=欧歌",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Config",
+   "name": "[ouge] 🐲歌配置｜中心",
+   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0810/15/d4ef68f275be721a92f218de955a8328.jpg",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Duopan",
+   "name": "[ouge] 🐲接口失效",
+   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0810/15/d4ef68f275be721a92f218de955a8328.jpg",
+   "ext": "{\"site_urls\": [\"https://woog.nxog.eu.org\"], \"threadinfo\": {\"chunksize\": 244, \"threads\": 16}, \"url_key\": \"csp_wogg1\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Duopan",
+   "name": "[ouge] 🐲关注公众号",
+   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0810/15/d4ef68f275be721a92f218de955a8328.jpg",
+   "ext": "{\"site_urls\": [\"https://ogkk.nxog.eu.org\"], \"threadinfo\": {\"chunksize\": 216, \"threads\": 16}, \"url_key\": \"woog2\"}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[ouge] ❤装歌APP",
+   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/fabb11d153077bd3f42e017a99d88e9e.jpg",
+   "ext": "{\"site\": [\"https://ogkk.nxog.eu.org\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_PanWebShare",
+   "name": "[ouge] ❤重新领取",
+   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/fabb11d153077bd3f42e017a99d88e9e.jpg",
+   "ext": "{\"site\": [\"https://woog.nxog.eu.org\"]}",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_Market",
+   "name": "[ouge] 🛒本地包更新",
+   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/fabb11d153077bd3f42e017a99d88e9e.jpg",
+   "ext": "https://xn--dkw0c.v.nxog.top/zm/sd?b=欧歌",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_AList",
+   "name": "[xiaolong69] (优)AList",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/jar/fongmi_spider.jar",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/alist.json",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HHkkAmns",
+   "name": "[xiaolong69] 豪堪短剧",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_HemaAmns",
+   "name": "[xiaolong69] 盒马短剧",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_BddjAmns",
+   "name": "[xiaolong69] 拜拜短剧",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_WgdjAmns",
+   "name": "[xiaolong69] 围观短剧",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_QmdjAmns",
+   "name": "[xiaolong69] 喵喵短剧",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  },
+  {
+   "api": "csp_XydjAmns",
+   "name": "[xiaolong69] 星星短剧",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar",
+   "ext": "",
+   "src": "原csp_ok"
+  }
+ ]
+}
